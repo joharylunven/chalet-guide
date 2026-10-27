@@ -1,0 +1,321 @@
+/* Tableau de bord de l'hôte. Une série par graphique, une teinte (lac). */
+.dash {
+  display: grid;
+  gap: 18px;
+  --series: var(--lake);
+}
+.dash-head {
+  display: grid;
+  gap: 6px;
+}
+.dash-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+}
+.dash-select select {
+  min-height: 40px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--surface);
+  color: var(--ink);
+  font-weight: 600;
+  font-size: 0.85rem;
+  max-width: 100%;
+}
+.dash-notice {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 14px;
+  border-radius: var(--radius-sm);
+  background: var(--lake-soft);
+  font-size: 0.9rem;
+}
+.dash-notice.is-example {
+  background: var(--warn-soft);
+  color: var(--warn-ink);
+}
+.dash-notice {
+  flex-wrap: nowrap;
+  align-items: flex-start;
+}
+.dash-notice svg {
+  flex: none;
+  margin-top: 2px;
+}
+.dash-notice-text {
+  flex: 1;
+}
+.dash-notice-link {
+  font-weight: 600;
+}
+
+.dash-hero {
+  display: grid;
+  gap: 6px;
+}
+.dash-hero-line {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 14px;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+/* Chiffre héros : même famille sans que le reste, chiffres proportionnels. */
+.dash-hero-number {
+  font-family: var(--font-body);
+  font-size: clamp(3rem, 12vw, 4.5rem);
+  font-weight: 700;
+  line-height: 1;
+  color: var(--ink);
+}
+
+.dash-tiles {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+@media (min-width: 760px) {
+  .dash-tiles {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+.dash-tile {
+  display: grid;
+  gap: 2px;
+  padding: 14px 16px;
+}
+.dash-tile-label {
+  font-size: 0.85rem;
+  color: var(--ink-2);
+}
+.dash-tile-value {
+  font-size: 1.9rem;
+  font-weight: 700;
+  line-height: 1.1;
+}
+.dash .card h2 {
+  font-size: 1.2rem;
+  margin-bottom: 12px;
+}
+.dash-grid {
+  display: grid;
+  gap: 18px;
+}
+@media (min-width: 900px) {
+  .dash-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* --- Colonnes ------------------------------------------------------------ */
+.chart {
+  margin: 0;
+  display: grid;
+  gap: 6px;
+}
+.chart-plot {
+  display: grid;
+  grid-template-columns: 28px 1fr;
+  height: 200px;
+}
+.chart-y {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-size: 0.72rem;
+  color: var(--ink-2);
+  font-variant-numeric: tabular-nums;
+  transform: translateY(6px);
+}
+.chart-area {
+  position: relative;
+  border-bottom: 1px solid var(--line);
+}
+.chart-grid {
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: var(--line);
+  opacity: 0.6;
+}
+.chart-cols {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  align-items: end;
+}
+.chart-col {
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  /* 2px d'espace entre barres voisines : la cible de survol couvre toute la colonne. */
+  padding: 0 1px;
+  cursor: default;
+}
+.chart-bar {
+  display: block;
+  width: 100%;
+  max-width: 24px;
+  min-height: 0;
+  border-radius: 4px 4px 0 0;
+  background: var(--series);
+  transition: opacity 0.12s ease;
+}
+.chart-cols:hover .chart-col:not(.is-hover) .chart-bar {
+  opacity: 0.55;
+}
+.chart-tip {
+  position: absolute;
+  top: -6px;
+  transform: translate(-50%, -100%);
+  background: var(--ink);
+  color: var(--bg);
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-size: 0.78rem;
+  white-space: nowrap;
+  pointer-events: none;
+  z-index: 2;
+}
+.chart-x {
+  display: grid;
+  margin-left: 28px;
+  font-size: 0.72rem;
+  color: var(--ink-2);
+}
+.chart-x span {
+  white-space: nowrap;
+  overflow: visible;
+  display: flex;
+  justify-content: center;
+}
+.chart-x span:last-child {
+  justify-content: flex-end;
+}
+.chart-x span:last-child {
+  text-align: right;
+}
+.chart-table summary {
+  cursor: pointer;
+  color: var(--lake);
+  width: fit-content;
+  padding: 4px 0;
+}
+.chart-table table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 6px;
+  font-size: 0.85rem;
+  font-variant-numeric: tabular-nums;
+}
+.chart-table th,
+.chart-table td {
+  text-align: left;
+  padding: 4px 6px;
+  border-bottom: 1px solid var(--line);
+}
+.chart-table td {
+  text-align: right;
+}
+
+/* --- Barres horizontales --------------------------------------------------- */
+.barlist {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 10px;
+}
+.barlist li {
+  display: grid;
+  gap: 4px;
+}
+.barlist-label {
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+.barlist-track {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.barlist-bar {
+  display: block;
+  height: 14px;
+  min-width: 4px;
+  border-radius: 0 4px 4px 0;
+  background: var(--series);
+  flex: none;
+  max-width: calc(100% - 40px);
+}
+.barlist-value {
+  font-size: 0.85rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+/* --- Questions ------------------------------------------------------------- */
+.dash-questions {
+  list-style: none;
+  margin: 0 0 8px;
+  padding: 0;
+  display: grid;
+  gap: 2px;
+}
+.dash-questions li {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 2px 12px;
+  align-items: center;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--line);
+}
+.dash-q {
+  font-weight: 500;
+}
+.dash-q-n {
+  font-variant-numeric: tabular-nums;
+  color: var(--ink-2);
+}
+.dash-status {
+  grid-column: 1 / -1;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+.dash-status.is-ok svg {
+  color: var(--moss);
+}
+.dash-status.is-todo svg {
+  color: var(--ember);
+}
+
+.dash-link {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: var(--ink);
+  text-decoration: none;
+}
+.dash-link > svg:first-child {
+  color: var(--lake);
+  flex: none;
+}
+.dash-link-arrow {
+  margin-left: auto;
+  transform: rotate(180deg);
+  flex: none;
+}

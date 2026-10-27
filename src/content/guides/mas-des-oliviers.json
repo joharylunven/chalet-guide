@@ -1,0 +1,535 @@
+{
+  "slug": "mas-des-oliviers",
+  "country": "fr",
+  "name": "Le Mas des Oliviers",
+  "kind": {
+    "fr": "Gîte avec spa et piscine",
+    "en": "Gîte with hot tub and pool"
+  },
+  "tagline": {
+    "fr": "Pierres sèches, oliviers centenaires et spa sous les étoiles du Luberon.",
+    "en": "Dry-stone walls, century-old olive trees and a hot tub under Luberon stars."
+  },
+  "region": {
+    "fr": "Provence — Luberon",
+    "en": "Provence — Luberon"
+  },
+  "municipality": "Goult",
+  "location": {
+    "lat": 43.86,
+    "lon": 5.24
+  },
+  "illustration": "provence",
+  "legalId": "DÉMO-84051-000001",
+  "hostLabel": {
+    "fr": "Mas & Gîtes du Luberon (exploitant fictif)",
+    "en": "Mas & Gîtes du Luberon (fictional host)"
+  },
+  "booking": "direct",
+  "capacity": 6,
+  "stay": {
+    "checkIn": "16:00",
+    "checkOut": "10:00"
+  },
+  "before": {
+    "directions": {
+      "fr": "Depuis Avignon, D900 direction Apt pendant 35 km, puis sortie Goult. Le mas est à 2 km du village, chemin des Oliviers. Environ 45 minutes.",
+      "en": "From Avignon, take the D900 towards Apt for 35 km, then the Goult exit. The farmhouse is 2 km from the village, chemin des Oliviers. About 45 minutes."
+    },
+    "bring": [
+      {
+        "fr": "Crème solaire et chapeau : l’été, il fait souvent plus de 35 °C.",
+        "en": "Sunscreen and a hat: summer often goes above 35 °C."
+      },
+      {
+        "fr": "Maillots pour la piscine et le spa.",
+        "en": "Swimsuits for the pool and hot tub."
+      },
+      {
+        "fr": "Un panier pour le marché d’Apt le samedi matin.",
+        "en": "A basket for the Saturday morning market in Apt."
+      }
+    ]
+  },
+  "arrival": {
+    "doorCode": "7340",
+    "steps": [
+      {
+        "fr": "Le portail s’ouvre avec le même code, sur le boîtier à gauche.",
+        "en": "The gate opens with the same code, on the keypad on the left."
+      },
+      {
+        "fr": "Garez-vous sous les mûriers, à droite de l’allée.",
+        "en": "Park under the mulberry trees, to the right of the drive."
+      },
+      {
+        "fr": "La boîte à clés est à côté de la porte d’entrée, sous la glycine.",
+        "en": "The key box is next to the front door, under the wisteria."
+      },
+      {
+        "fr": "Les volets restent fermés l’été : c’est ce qui garde la maison fraîche.",
+        "en": "Shutters stay closed in summer: that’s what keeps the house cool."
+      }
+    ],
+    "parking": {
+      "fr": "Deux voitures dans la propriété. Portail toujours refermé derrière vous.",
+      "en": "Two cars on the property. Always close the gate behind you."
+    }
+  },
+  "wifi": {
+    "ssid": "MasOliviers",
+    "password": "Lavande-Luberon-84",
+    "note": {
+      "fr": "La box est dans le placard de l’entrée. En cas de coupure, débranchez-la 30 secondes.",
+      "en": "The router is in the hall cupboard. If it drops, unplug it for 30 seconds."
+    }
+  },
+  "house": {
+    "intro": {
+      "fr": "Mas du XVIIIe siècle restauré, trois chambres, terrasse sous la treille, piscine 10 × 4 m et spa privatif.",
+      "en": "Restored 18th-century farmhouse, three bedrooms, vine-covered terrace, 10 × 4 m pool and private hot tub."
+    },
+    "amenities": [
+      {
+        "icon": "bed",
+        "label": {
+          "fr": "3 chambres (2 doubles, 2 simples)",
+          "en": "3 bedrooms (2 doubles, 2 singles)"
+        }
+      },
+      {
+        "icon": "bath",
+        "label": {
+          "fr": "2 salles d’eau",
+          "en": "2 shower rooms"
+        }
+      },
+      {
+        "icon": "waves",
+        "label": {
+          "fr": "Spa privatif 4 places",
+          "en": "Private 4-person hot tub"
+        }
+      },
+      {
+        "icon": "sun",
+        "label": {
+          "fr": "Piscine sécurisée, ouverte de mai à septembre",
+          "en": "Secured pool, open May to September"
+        }
+      },
+      {
+        "icon": "chef-hat",
+        "label": {
+          "fr": "Cuisine équipée, plancha extérieure",
+          "en": "Full kitchen, outdoor griddle"
+        }
+      },
+      {
+        "icon": "fan",
+        "label": {
+          "fr": "Climatisation dans les chambres",
+          "en": "Air conditioning in bedrooms"
+        }
+      },
+      {
+        "icon": "bike",
+        "label": {
+          "fr": "2 vélos à assistance électrique",
+          "en": "2 e-bikes"
+        }
+      },
+      {
+        "icon": "washing-machine",
+        "label": {
+          "fr": "Lave-linge",
+          "en": "Washing machine"
+        }
+      }
+    ],
+    "modules": [
+      {
+        "id": "spa",
+        "note": {
+          "fr": "Le spa est ouvert toute l’année, de 8 h à 22 h. Les derniers contrôles d’eau sont affichés ici par votre hôte.",
+          "en": "The hot tub is open all year, from 8 am to 10 pm. Your host posts the latest water checks here."
+        }
+      },
+      {
+        "id": "pool"
+      },
+      {
+        "id": "waste-sorting"
+      },
+      {
+        "id": "tourist-tax"
+      },
+      {
+        "id": "neighbours",
+        "note": {
+          "fr": "Période rouge incendie en été : barbecue et plancha seulement sur la terrasse, jamais dans la garrigue.",
+          "en": "Summer fire-risk period: barbecue and griddle only on the terrace, never in the scrubland."
+        }
+      }
+    ]
+  },
+  "rules": [
+    {
+      "icon": "users",
+      "text": {
+        "fr": "6 personnes maximum.",
+        "en": "6 people maximum."
+      }
+    },
+    {
+      "icon": "moon",
+      "text": {
+        "fr": "Calme à partir de 22 h.",
+        "en": "Quiet from 10 pm."
+      }
+    },
+    {
+      "icon": "cigarette-off",
+      "text": {
+        "fr": "Non-fumeur à l’intérieur. Mégots jamais dans la nature : risque d’incendie.",
+        "en": "No smoking indoors. Never drop cigarette butts outside: fire risk."
+      }
+    },
+    {
+      "icon": "paw",
+      "text": {
+        "fr": "Animaux non admis.",
+        "en": "No pets."
+      }
+    },
+    {
+      "icon": "flame",
+      "text": {
+        "fr": "Aucun feu à l’extérieur, en toute saison.",
+        "en": "No outdoor fires, in any season."
+      }
+    },
+    {
+      "icon": "party-popper",
+      "text": {
+        "fr": "Pas de fêtes.",
+        "en": "No parties."
+      }
+    }
+  ],
+  "departure": {
+    "checklist": [
+      {
+        "fr": "Vaisselle lavée et rangée.",
+        "en": "Dishes washed and put away."
+      },
+      {
+        "fr": "Spa couvert et verrouillé.",
+        "en": "Hot tub covered and locked."
+      },
+      {
+        "fr": "Portillon de la piscine fermé.",
+        "en": "Pool gate closed."
+      },
+      {
+        "fr": "Poubelles triées dans les bacs devant le portail.",
+        "en": "Rubbish sorted into the bins by the gate."
+      },
+      {
+        "fr": "Climatisation éteinte, volets fermés.",
+        "en": "Air conditioning off, shutters closed."
+      },
+      {
+        "fr": "Clés dans la boîte à clés, portail refermé.",
+        "en": "Keys in the key box, gate closed."
+      }
+    ],
+    "note": {
+      "fr": "Linge de lit et serviettes : laissez-les dans la salle d’eau du bas.",
+      "en": "Bed linen and towels: leave them in the downstairs shower room."
+    }
+  },
+  "emergency": {
+    "hospital": {
+      "name": "Centre hospitalier du Pays d’Apt",
+      "city": "Apt",
+      "location": {
+        "lat": 43.88,
+        "lon": 5.39
+      },
+      "distanceKm": 13
+    },
+    "poisonCentre": "marseille",
+    "notes": [
+      {
+        "fr": "Risque incendie : par vent fort (mistral), aucune flamme dehors. En cas de fumée visible, appelez le 18 ou le 112.",
+        "en": "Fire risk: in strong wind (mistral), no flames outside. If you see smoke, call 18 or 112."
+      },
+      {
+        "fr": "Extincteur dans la cuisine et dans le local technique de la piscine.",
+        "en": "Fire extinguishers in the kitchen and in the pool plant room."
+      }
+    ]
+  },
+  "around": [
+    {
+      "id": "gordes",
+      "category": "culture",
+      "name": "Village de Gordes",
+      "text": {
+        "fr": "Village perché à 15 minutes. Allez-y tôt le matin l’été.",
+        "en": "Hilltop village 15 minutes away. Go early in the morning in summer."
+      },
+      "location": {
+        "lat": 43.91,
+        "lon": 5.2
+      },
+      "seasons": [
+        "winter",
+        "spring",
+        "summer",
+        "autumn"
+      ]
+    },
+    {
+      "id": "ocres",
+      "category": "outdoor",
+      "name": "Sentier des Ocres, Roussillon",
+      "text": {
+        "fr": "Balade de 30 à 60 minutes dans les falaises d’ocre. Chaussures fermées conseillées.",
+        "en": "A 30–60 minute walk through ochre cliffs. Closed shoes recommended."
+      },
+      "location": {
+        "lat": 43.9,
+        "lon": 5.29
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "autumn"
+      ]
+    },
+    {
+      "id": "marche-apt",
+      "category": "grocery",
+      "name": "Marché d’Apt",
+      "text": {
+        "fr": "Le samedi matin, l’un des grands marchés du Luberon.",
+        "en": "Saturday mornings, one of the Luberon’s big markets."
+      },
+      "location": {
+        "lat": 43.88,
+        "lon": 5.4
+      },
+      "seasons": [
+        "winter",
+        "spring",
+        "summer",
+        "autumn"
+      ]
+    },
+    {
+      "id": "boulangerie",
+      "category": "food",
+      "name": "Boulangerie du Moulin",
+      "text": {
+        "fr": "Boulangerie fictive à Goult : fougasse aux olives et pain au levain.",
+        "en": "Fictional bakery in Goult: olive fougasse and sourdough."
+      },
+      "location": {
+        "lat": 43.86,
+        "lon": 5.24
+      },
+      "seasons": [
+        "winter",
+        "spring",
+        "summer",
+        "autumn"
+      ]
+    },
+    {
+      "id": "cave",
+      "category": "food",
+      "name": "Cave des Coteaux",
+      "text": {
+        "fr": "Cave coopérative fictive : dégustation de vins du Luberon.",
+        "en": "Fictional wine cooperative: Luberon wine tasting."
+      },
+      "location": {
+        "lat": 43.85,
+        "lon": 5.27
+      },
+      "seasons": [
+        "winter",
+        "spring",
+        "summer",
+        "autumn"
+      ]
+    },
+    {
+      "id": "verre",
+      "category": "service",
+      "name": "Conteneur à verre",
+      "text": {
+        "fr": "Place du village de Goult.",
+        "en": "Village square, Goult."
+      },
+      "location": {
+        "lat": 43.86,
+        "lon": 5.25
+      },
+      "seasons": [
+        "winter",
+        "spring",
+        "summer",
+        "autumn"
+      ]
+    }
+  ],
+  "options": [
+    {
+      "id": "market-basket",
+      "icon": "shopping-basket",
+      "title": {
+        "fr": "Panier du marché",
+        "en": "Market basket"
+      },
+      "description": {
+        "fr": "Fruits, légumes, fromage de chèvre, huile d’olive et tapenade du marché, livrés à votre arrivée.",
+        "en": "Fruit, vegetables, goat cheese, olive oil and tapenade from the market, delivered on arrival."
+      },
+      "price": 55,
+      "unit": {
+        "fr": "panier (2 pers.)",
+        "en": "basket (2 people)"
+      },
+      "leadTime": {
+        "fr": "72 h à l’avance",
+        "en": "72 h in advance"
+      },
+      "highlight": "before"
+    },
+    {
+      "id": "spa-romance",
+      "icon": "sparkles",
+      "title": {
+        "fr": "Soirée spa",
+        "en": "Hot tub evening"
+      },
+      "description": {
+        "fr": "Spa préparé à la tombée de la nuit, bougies, peignoirs et bouteille de rosé local.",
+        "en": "Hot tub ready at dusk, candles, bathrobes and a bottle of local rosé."
+      },
+      "price": 45,
+      "unit": {
+        "fr": "soirée",
+        "en": "evening"
+      },
+      "leadTime": {
+        "fr": "24 h à l’avance",
+        "en": "24 h in advance"
+      },
+      "highlight": "always"
+    },
+    {
+      "id": "ebike",
+      "icon": "bike",
+      "title": {
+        "fr": "Itinéraire vélo guidé",
+        "en": "Guided e-bike route"
+      },
+      "description": {
+        "fr": "Demi-journée avec un guide sur l’Autour du Luberon à vélo.",
+        "en": "Half day with a guide on the Luberon cycle route."
+      },
+      "price": 60,
+      "unit": {
+        "fr": "personne",
+        "en": "person"
+      },
+      "leadTime": {
+        "fr": "48 h à l’avance",
+        "en": "48 h in advance"
+      }
+    },
+    {
+      "id": "late-checkout",
+      "icon": "clock",
+      "title": {
+        "fr": "Départ tardif (13 h)",
+        "en": "Late check-out (1 pm)"
+      },
+      "description": {
+        "fr": "Profitez de la piscine jusqu’au déjeuner.",
+        "en": "Enjoy the pool until lunch."
+      },
+      "price": 35,
+      "unit": {
+        "fr": "séjour",
+        "en": "stay"
+      },
+      "leadTime": {
+        "fr": "La veille du départ",
+        "en": "The day before departure"
+      },
+      "highlight": "lastDay"
+    },
+    {
+      "id": "linen",
+      "icon": "bed",
+      "title": {
+        "fr": "Kit linge supplémentaire",
+        "en": "Extra linen kit"
+      },
+      "description": {
+        "fr": "Draps et serviettes pour une personne de plus.",
+        "en": "Sheets and towels for one extra person."
+      },
+      "price": 15,
+      "unit": {
+        "fr": "personne",
+        "en": "person"
+      },
+      "leadTime": {
+        "fr": "À la réservation",
+        "en": "When booking"
+      },
+      "highlight": "before"
+    }
+  ],
+  "faq": [
+    {
+      "q": {
+        "fr": "Le spa est-il chauffé l’hiver ?",
+        "en": "Is the hot tub heated in winter?"
+      },
+      "a": {
+        "fr": "Oui, il est ouvert toute l’année et maintenu à 37 °C.",
+        "en": "Yes, it is open all year and kept at 37 °C."
+      },
+      "section": "house"
+    },
+    {
+      "q": {
+        "fr": "Où jeter le verre ?",
+        "en": "Where do we put glass?"
+      },
+      "a": {
+        "fr": "Au conteneur de la place du village : il n’y a pas de collecte du verre au mas.",
+        "en": "In the container on the village square: glass isn’t collected at the house."
+      },
+      "section": "house"
+    },
+    {
+      "q": {
+        "fr": "Combien coûte la taxe de séjour ?",
+        "en": "How much is the tourist tax?"
+      },
+      "a": {
+        "fr": "Elle est fixée par la commune, par personne et par nuit. En réservation directe, votre hôte l’indique sur la facture.",
+        "en": "It is set by the town, per person per night. For direct bookings, your host lists it on the invoice."
+      },
+      "section": "house"
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "slug": "la-parenthese",
+  "country": "fr",
+  "name": "La Parenthèse",
+  "kind": {
+    "fr": "Love room avec spa intérieur",
+    "en": "Romantic suite with indoor hot tub"
+  },
+  "tagline": {
+    "fr": "Colombages, spa intérieur et cheminée, à cinq minutes de Honfleur.",
+    "en": "Half-timbering, an indoor hot tub and a fireplace, five minutes from Honfleur."
+  },
+  "region": {
+    "fr": "Normandie — Côte Fleurie",
+    "en": "Normandy — Côte Fleurie"
+  },
+  "municipality": "Équemauville",
+  "location": {
+    "lat": 49.4,
+    "lon": 0.21
+  },
+  "illustration": "normandy",
+  "legalId": "DÉMO-14244-000002",
+  "hostLabel": {
+    "fr": "Les Suites du Pays d’Auge (exploitant fictif)",
+    "en": "Les Suites du Pays d’Auge (fictional host)"
+  },
+  "booking": "direct",
+  "capacity": 2,
+  "stay": {
+    "checkIn": "17:00",
+    "checkOut": "12:00"
+  },
+  "before": {
+    "directions": {
+      "fr": "Depuis Paris, A13 puis A29 sortie Honfleur, direction Équemauville. Environ 2 h 15. Gare la plus proche : Deauville–Trouville, à 20 minutes en taxi.",
+      "en": "From Paris, A13 then A29, exit Honfleur, towards Équemauville. About 2 h 15. Nearest station: Deauville–Trouville, 20 minutes by taxi."
+    },
+    "bring": [
+      {
+        "fr": "Rien d’autre que vous : peignoirs, chaussons et produits de bain sont fournis.",
+        "en": "Nothing but yourselves: bathrobes, slippers and bath products are provided."
+      },
+      {
+        "fr": "Une tenue pour un dîner à Honfleur.",
+        "en": "An outfit for dinner in Honfleur."
+      }
+    ]
+  },
+  "arrival": {
+    "doorCode": "2902",
+    "steps": [
+      {
+        "fr": "Arrivée autonome à partir de 17 h : la suite est préparée pour vous.",
+        "en": "Self check-in from 5 pm: the suite is ready for you."
+      },
+      {
+        "fr": "Entrez dans la cour par le petit portail en bois.",
+        "en": "Enter the courtyard through the small wooden gate."
+      },
+      {
+        "fr": "La porte de la suite s’ouvre avec le code, sur le clavier à droite.",
+        "en": "The suite door opens with the code, on the keypad to the right."
+      },
+      {
+        "fr": "Le spa est déjà à température : vous pouvez en profiter tout de suite.",
+        "en": "The hot tub is already warm: you can use it straight away."
+      }
+    ],
+    "parking": {
+      "fr": "Une place réservée dans la cour, devant la suite.",
+      "en": "One reserved space in the courtyard, in front of the suite."
+    }
+  },
+  "wifi": {
+    "ssid": "Parenthese-Suite",
+    "password": "Pommier-Honfleur-14"
+  },
+  "house": {
+    "intro": {
+      "fr": "Ancienne maison de pressoir à colombages, transformée en suite de 45 m² : lit king, cheminée, spa intérieur, terrasse privative sur le verger.",
+      "en": "Former half-timbered cider press house turned into a 45 m² suite: king bed, fireplace, indoor hot tub, private terrace over the orchard."
+    },
+    "amenities": [
+      {
+        "icon": "bed",
+        "label": {
+          "fr": "Lit king size",
+          "en": "King-size bed"
+        }
+      },
+      {
+        "icon": "waves",
+        "label": {
+          "fr": "Spa intérieur 2 places",
+          "en": "Indoor 2-person hot tub"
+        }
+      },
+      {
+        "icon": "flame",
+        "label": {
+          "fr": "Cheminée (bûches fournies)",
+          "en": "Fireplace (logs provided)"
+        }
+      },
+      {
+        "icon": "bath",
+        "label": {
+          "fr": "Douche à l’italienne double",
+          "en": "Double walk-in shower"
+        }
+      },
+      {
+        "icon": "coffee",
+        "label": {
+          "fr": "Machine à espresso, bouilloire, thés",
+          "en": "Espresso machine, kettle, teas"
+        }
+      },
+      {
+        "icon": "speaker",
+        "label": {
+          "fr": "Enceinte Bluetooth",
+          "en": "Bluetooth speaker"
+        }
+      },
+      {
+        "icon": "trees",
+        "label": {
+          "fr": "Terrasse privative sur le verger",
+          "en": "Private terrace over the orchard"
+        }
+      }
+    ],
+    "modules": [
+      {
+        "id": "spa",
+        "note": {
+          "fr": "Le spa est vidangé et désinfecté entre chaque séjour. Les derniers contrôles sont affichés ici par votre hôte.",
+          "en": "The hot tub is drained and disinfected between every stay. Your host posts the latest checks here."
+        }
+      },
+      {
+        "id": "wood-stove",
+        "note": {
+          "fr": "Ici, il s’agit d’une cheminée à foyer fermé : mêmes consignes de sécurité.",
+          "en": "Here it is a closed-hearth fireplace: same safety guidelines."
+        }
+      },
+      {
+        "id": "tourist-tax"
+      },
+      {
+        "id": "neighbours"
+      }
+    ]
+  },
+  "rules": [
+    {
+      "icon": "users",
+      "text": {
+        "fr": "2 adultes. Suite non adaptée aux enfants.",
+        "en": "2 adults. Suite not suitable for children."
+      }
+    },
+    {
+      "icon": "cigarette-off",
+      "text": {
+        "fr": "Non-fumeur, y compris sur la terrasse.",
+        "en": "No smoking, including on the terrace."
+      }
+    },
+    {
+      "icon": "paw",
+      "text": {
+        "fr": "Animaux non admis.",
+        "en": "No pets."
+      }
+    },
+    {
+      "icon": "flame",
+      "text": {
+        "fr": "Bougies seulement dans les photophores fournis.",
+        "en": "Candles only in the lanterns provided."
+      }
+    },
+    {
+      "icon": "sparkles",
+      "text": {
+        "fr": "Pas de confettis, pétales ni paillettes dans le spa : ils bouchent la filtration.",
+        "en": "No confetti, petals or glitter in the hot tub: they clog the filter."
+      }
+    }
+  ],
+  "departure": {
+    "checklist": [
+      {
+        "fr": "Cheminée éteinte, porte vitrée fermée.",
+        "en": "Fireplace out, glass door closed."
+      },
+      {
+        "fr": "Couvercle du spa remis.",
+        "en": "Hot tub cover back on."
+      },
+      {
+        "fr": "Verres et vaisselle dans l’évier.",
+        "en": "Glasses and dishes in the sink."
+      },
+      {
+        "fr": "Poubelles dans le bac de la cour.",
+        "en": "Rubbish in the courtyard bin."
+      },
+      {
+        "fr": "Porte refermée : elle se verrouille avec le code.",
+        "en": "Door closed: it locks with the keypad."
+      }
+    ],
+    "note": {
+      "fr": "Départ jusqu’à midi : prenez votre temps.",
+      "en": "Check-out until noon: take your time."
+    }
+  },
+  "emergency": {
+    "hospital": {
+      "name": "Centre hospitalier de la Côte Fleurie",
+      "city": "Cricquebœuf",
+      "location": {
+        "lat": 49.4,
+        "lon": 0.15
+      },
+      "distanceKm": 5
+    },
+    "notes": [
+      {
+        "fr": "Le centre antipoison dépend de votre région : consultez la liste officielle ci-dessous. En cas d’urgence, appelez le 15.",
+        "en": "The poison centre depends on your region: see the official list below. In an emergency, call 15."
+      }
+    ]
+  },
+  "around": [
+    {
+      "id": "vieux-bassin",
+      "category": "culture",
+      "name": "Vieux Bassin de Honfleur",
+      "text": {
+        "fr": "Le port, ses maisons étroites et ses restaurants, à 5 minutes.",
+        "en": "The old harbour, its narrow houses and restaurants, 5 minutes away."
+      },
+      "location": {
+        "lat": 49.42,
+        "lon": 0.23
+      },
+      "seasons": [
+        "winter",
+        "spring",
+        "summer",
+        "autumn"
+      ]
+    },
+    {
+      "id": "plage-deauville",
+      "category": "outdoor",
+      "name": "Plage de Deauville",
+      "text": {
+        "fr": "Les Planches et la grande plage, à 20 minutes.",
+        "en": "The boardwalk and the big beach, 20 minutes away."
+      },
+      "location": {
+        "lat": 49.36,
+        "lon": 0.07
+      },
+      "seasons": [
+        "winter",
+        "spring",
+        "summer",
+        "autumn"
+      ]
+    },
+    {
+      "id": "cote-grace",
+      "category": "outdoor",
+      "name": "Côte de Grâce",
+      "text": {
+        "fr": "Promenade et point de vue sur l’estuaire de la Seine.",
+        "en": "Walk and viewpoint over the Seine estuary."
+      },
+      "location": {
+        "lat": 49.42,
+        "lon": 0.21
+      },
+      "seasons": [
+        "winter",
+        "spring",
+        "summer",
+        "autumn"
+      ]
+    },
+    {
+      "id": "cidrerie",
+      "category": "food",
+      "name": "Ferme cidricole du Clos",
+      "text": {
+        "fr": "Ferme fictive : cidre, pommeau et calvados en vente directe.",
+        "en": "Fictional farm: cider, pommeau and calvados sold on site."
+      },
+      "location": {
+        "lat": 49.38,
+        "lon": 0.25
+      },
+      "seasons": [
+        "winter",
+        "spring",
+        "summer",
+        "autumn"
+      ]
+    },
+    {
+      "id": "bistrot",
+      "category": "food",
+      "name": "Le Bistrot de l’Estuaire",
+      "text": {
+        "fr": "Restaurant fictif : poissons de la criée, réservation conseillée.",
+        "en": "Fictional restaurant: fish from the auction, booking advised."
+      },
+      "location": {
+        "lat": 49.42,
+        "lon": 0.23
+      },
+      "seasons": [
+        "winter",
+        "spring",
+        "summer",
+        "autumn"
+      ]
+    },
+    {
+      "id": "institut",
+      "category": "wellness",
+      "name": "Institut Bulle de Soie",
+      "text": {
+        "fr": "Institut de soins fictif : massages en duo sur rendez-vous.",
+        "en": "Fictional spa: couples massages by appointment."
+      },
+      "location": {
+        "lat": 49.41,
+        "lon": 0.22
+      },
+      "seasons": [
+        "winter",
+        "spring",
+        "summer",
+        "autumn"
+      ]
+    }
+  ],
+  "options": [
+    {
+      "id": "champagne",
+      "icon": "wine",
+      "title": {
+        "fr": "Bouteille de champagne",
+        "en": "Bottle of champagne"
+      },
+      "description": {
+        "fr": "Au frais à votre arrivée, avec deux flûtes.",
+        "en": "Chilled on arrival, with two flutes."
+      },
+      "price": 55,
+      "unit": {
+        "fr": "bouteille",
+        "en": "bottle"
+      },
+      "leadTime": {
+        "fr": "24 h à l’avance",
+        "en": "24 h in advance"
+      },
+      "highlight": "before"
+    },
+    {
+      "id": "decoration",
+      "icon": "heart",
+      "title": {
+        "fr": "Décoration romantique",
+        "en": "Romantic decoration"
+      },
+      "description": {
+        "fr": "Bougies LED, ballons et lettrage personnalisé (sans pétales dans le spa).",
+        "en": "LED candles, balloons and custom lettering (no petals in the hot tub)."
+      },
+      "price": 40,
+      "unit": {
+        "fr": "séjour",
+        "en": "stay"
+      },
+      "leadTime": {
+        "fr": "48 h à l’avance",
+        "en": "48 h in advance"
+      },
+      "highlight": "before"
+    },
+    {
+      "id": "breakfast",
+      "icon": "coffee",
+      "title": {
+        "fr": "Petit-déjeuner normand",
+        "en": "Normandy breakfast"
+      },
+      "description": {
+        "fr": "Viennoiseries, confiture de pommes, beurre d’Isigny, jus de pomme, déposés devant la porte.",
+        "en": "Pastries, apple jam, Isigny butter, apple juice, left at your door."
+      },
+      "price": 28,
+      "unit": {
+        "fr": "pour deux",
+        "en": "for two"
+      },
+      "leadTime": {
+        "fr": "La veille avant 20 h",
+        "en": "The day before by 8 pm"
+      },
+      "highlight": "always"
+    },
+    {
+      "id": "massage",
+      "icon": "sparkles",
+      "title": {
+        "fr": "Massage en duo",
+        "en": "Couples massage"
+      },
+      "description": {
+        "fr": "Une heure de massage à l’institut partenaire, à 3 minutes.",
+        "en": "A one-hour massage at the partner spa, 3 minutes away."
+      },
+      "price": 150,
+      "unit": {
+        "fr": "pour deux",
+        "en": "for two"
+      },
+      "leadTime": {
+        "fr": "48 h à l’avance",
+        "en": "48 h in advance"
+      }
+    },
+    {
+      "id": "late-checkout",
+      "icon": "clock",
+      "title": {
+        "fr": "Départ tardif (15 h)",
+        "en": "Late check-out (3 pm)"
+      },
+      "description": {
+        "fr": "Trois heures de plus pour un dernier bain.",
+        "en": "Three extra hours for one last soak."
+      },
+      "price": 45,
+      "unit": {
+        "fr": "séjour",
+        "en": "stay"
+      },
+      "leadTime": {
+        "fr": "La veille du départ",
+        "en": "The day before departure"
+      },
+      "highlight": "lastDay"
+    }
+  ],
+  "faq": [
+    {
+      "q": {
+        "fr": "Peut-on mettre des pétales de rose dans le spa ?",
+        "en": "Can we put rose petals in the hot tub?"
+      },
+      "a": {
+        "fr": "Non : les pétales bouchent la filtration. La décoration romantique propose une alternative sans risque.",
+        "en": "No: petals clog the filter. The romantic decoration option offers a safe alternative."
+      },
+      "section": "house"
+    },
+    {
+      "q": {
+        "fr": "Le spa est-il propre ?",
+        "en": "Is the hot tub clean?"
+      },
+      "a": {
+        "fr": "Il est vidangé et désinfecté entre chaque séjour. Les derniers contrôles sont affichés dans la section Le logement.",
+        "en": "It is drained and disinfected between every stay. The latest checks are shown in The accommodation section."
+      },
+      "section": "house"
+    }
+  ]
+}

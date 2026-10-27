@@ -1,0 +1,82 @@
+{
+  "id": "municipal-rules",
+  "countries": [
+    "qc"
+  ],
+  "icon": "scroll",
+  "title": {
+    "fr": "Bruit et feux : règlements municipaux",
+    "en": "Noise and fires: municipal by-laws"
+  },
+  "intro": {
+    "fr": "La municipalité encadre le bruit et les feux à ciel ouvert. Les amendes s’appliquent aux locataires comme aux propriétaires.",
+    "en": "The municipality regulates noise and open-air fires. Fines apply to renters as well as owners."
+  },
+  "blocks": [
+    {
+      "title": {
+        "fr": "Bruit",
+        "en": "Noise"
+      },
+      "tone": "info",
+      "items": [
+        {
+          "fr": "Couvre-feu sonore : voir l’heure indiquée dans les règles du chalet.",
+          "en": "Quiet hours: see the time in the cottage rules."
+        },
+        {
+          "fr": "Pas de musique amplifiée dehors, ni sur le quai.",
+          "en": "No amplified music outside or on the dock."
+        },
+        {
+          "fr": "Le son porte très loin sur le lac, surtout le soir.",
+          "en": "Sound carries very far over the lake, especially at night."
+        }
+      ]
+    },
+    {
+      "title": {
+        "fr": "Feux extérieurs",
+        "en": "Outdoor fires"
+      },
+      "tone": "warning",
+      "items": [
+        {
+          "fr": "Seulement dans le foyer extérieur prévu, jamais ailleurs sur le terrain.",
+          "en": "Only in the outdoor fire pit provided, never anywhere else on the property."
+        },
+        {
+          "fr": "Avant d’allumer, vérifiez l’indice d’incendie et toute interdiction de la SOPFEU ou de la municipalité.",
+          "en": "Before lighting, check the fire danger and any SOPFEU or municipal ban."
+        },
+        {
+          "fr": "Gardez un seau d’eau à côté et éteignez complètement avant d’aller dormir.",
+          "en": "Keep a bucket of water nearby and put it out completely before going to bed."
+        },
+        {
+          "fr": "Pas de feux d’artifice.",
+          "en": "No fireworks."
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    "bruit",
+    "musique",
+    "feu",
+    "feux",
+    "foyer",
+    "exterieur",
+    "artifice",
+    "reglement",
+    "amende",
+    "municipal",
+    "noise",
+    "music",
+    "campfire",
+    "fire pit",
+    "fireworks",
+    "bylaw",
+    "quiet"
+  ]
+}

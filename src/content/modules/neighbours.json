@@ -1,0 +1,54 @@
+{
+  "id": "neighbours",
+  "countries": [
+    "fr"
+  ],
+  "icon": "users",
+  "title": {
+    "fr": "Règles de voisinage",
+    "en": "Being a good neighbour"
+  },
+  "intro": {
+    "fr": "Le logement est entouré de maisons habitées à l’année. Merci de respecter leur tranquillité.",
+    "en": "The house is surrounded by year-round homes. Please respect your neighbours’ peace and quiet."
+  },
+  "blocks": [
+    {
+      "title": {
+        "fr": "Au quotidien",
+        "en": "Day to day"
+      },
+      "tone": "do",
+      "items": [
+        {
+          "fr": "Calme à partir de 22 h, en particulier en terrasse et près de la piscine.",
+          "en": "Quiet from 10 pm, especially on the terrace and near the pool."
+        },
+        {
+          "fr": "Garez-vous uniquement sur les emplacements du logement.",
+          "en": "Park only in the property’s spaces."
+        },
+        {
+          "fr": "Barbecue : charbon et gaz seulement, jamais par vent fort ou en période d’interdiction.",
+          "en": "Barbecue: charcoal or gas only, never in strong wind or during a fire ban."
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    "voisin",
+    "voisins",
+    "bruit",
+    "calme",
+    "fete",
+    "barbecue",
+    "stationnement",
+    "neighbour",
+    "neighbor",
+    "noise",
+    "party",
+    "quiet",
+    "parking",
+    "bbq"
+  ]
+}

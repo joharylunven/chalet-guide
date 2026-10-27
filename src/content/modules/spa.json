@@ -1,0 +1,114 @@
+{
+  "id": "spa",
+  "countries": [
+    "qc",
+    "fr"
+  ],
+  "icon": "waves",
+  "title": {
+    "fr": "Spa",
+    "en": "Hot tub"
+  },
+  "intro": {
+    "fr": "Le spa est à votre disposition pendant tout le séjour. Merci de suivre ces consignes : elles gardent l’eau saine pour vous et les prochains voyageurs.",
+    "en": "The hot tub is yours for the whole stay. Please follow these guidelines: they keep the water clean for you and the next guests."
+  },
+  "blocks": [
+    {
+      "title": {
+        "fr": "Avant d’entrer",
+        "en": "Before getting in"
+      },
+      "tone": "info",
+      "items": [
+        {
+          "fr": "Prenez une douche rapide, sans crème ni maquillage.",
+          "en": "Take a quick shower, without lotion or make-up."
+        },
+        {
+          "fr": "Retirez le couvercle en le pliant, puis glissez-le sur le support prévu.",
+          "en": "Fold the cover and slide it onto its lifter."
+        },
+        {
+          "fr": "Vérifiez que l’eau est claire. Eau trouble ou odeur forte : n’entrez pas et prévenez votre hôte.",
+          "en": "Check that the water is clear. Cloudy water or a strong smell: don’t get in and tell your host."
+        }
+      ]
+    },
+    {
+      "title": {
+        "fr": "Pendant",
+        "en": "While using it"
+      },
+      "tone": "do",
+      "items": [
+        {
+          "fr": "Limitez les séances à 15 à 20 minutes, puis faites une pause et buvez de l’eau.",
+          "en": "Keep sessions to 15–20 minutes, then take a break and drink water."
+        },
+        {
+          "fr": "Les enfants sont toujours accompagnés d’un adulte, dans le spa et autour.",
+          "en": "Children must always be supervised by an adult, in and around the tub."
+        },
+        {
+          "fr": "Contenants en plastique seulement : pas de verre autour du spa.",
+          "en": "Plastic containers only: no glass around the tub."
+        }
+      ]
+    },
+    {
+      "title": {
+        "fr": "À éviter",
+        "en": "Avoid"
+      },
+      "tone": "dont",
+      "items": [
+        {
+          "fr": "Pas de spa pour les femmes enceintes ni en cas de problème cardiaque sans avis médical.",
+          "en": "No hot tub when pregnant or with a heart condition without medical advice."
+        },
+        {
+          "fr": "Pas de spa après avoir bu beaucoup d’alcool.",
+          "en": "No hot tub after drinking a lot of alcohol."
+        },
+        {
+          "fr": "Ne versez aucun produit dans l’eau : l’entretien est fait par votre hôte.",
+          "en": "Never add any product to the water: your host handles maintenance."
+        }
+      ]
+    },
+    {
+      "title": {
+        "fr": "Après",
+        "en": "Afterwards"
+      },
+      "tone": "warning",
+      "items": [
+        {
+          "fr": "Remettez toujours le couvercle et ses attaches : il garde la chaleur et protège les enfants.",
+          "en": "Always put the cover back and fasten its clips: it keeps the heat in and protects children."
+        },
+        {
+          "fr": "Un problème (eau trouble, jets, alarme du panneau) ? Écrivez à votre hôte depuis l’assistant.",
+          "en": "A problem (cloudy water, jets, control panel alarm)? Message your host from the assistant."
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    "spa",
+    "jacuzzi",
+    "bain",
+    "tourbillon",
+    "couvercle",
+    "eau",
+    "trouble",
+    "chaud",
+    "hot tub",
+    "tub",
+    "cover",
+    "water",
+    "jets",
+    "bain nordique"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "wildlife",
+  "countries": [
+    "qc"
+  ],
+  "icon": "paw",
+  "title": {
+    "fr": "Faune et déchets",
+    "en": "Wildlife and garbage"
+  },
+  "intro": {
+    "fr": "Vous êtes chez les animaux : chevreuils, renards, ratons laveurs et parfois un ours noir. Ils sont attirés par les odeurs de nourriture.",
+    "en": "You’re in wildlife country: deer, foxes, raccoons and sometimes a black bear. They are attracted by food smells."
+  },
+  "blocks": [
+    {
+      "title": {
+        "fr": "Déchets et poubelles",
+        "en": "Garbage and trash"
+      },
+      "tone": "do",
+      "items": [
+        {
+          "fr": "Gardez les sacs à l’intérieur jusqu’à votre départ, ou dans le bac verrouillé.",
+          "en": "Keep bags inside until you leave, or in the locked bin."
+        },
+        {
+          "fr": "Ne laissez jamais de nourriture, de glacière ou de BBQ sale dehors la nuit.",
+          "en": "Never leave food, coolers or a dirty BBQ outside overnight."
+        },
+        {
+          "fr": "Ne nourrissez aucun animal, même les oiseaux près de la galerie.",
+          "en": "Never feed any animal, not even the birds near the porch."
+        }
+      ]
+    },
+    {
+      "title": {
+        "fr": "Si vous voyez un ours",
+        "en": "If you see a bear"
+      },
+      "tone": "warning",
+      "items": [
+        {
+          "fr": "Gardez vos distances, ne courez pas, parlez fort et reculez lentement.",
+          "en": "Keep your distance, don’t run, speak loudly and back away slowly."
+        },
+        {
+          "fr": "Rentrez à l’intérieur avec les enfants et les animaux.",
+          "en": "Go inside with children and pets."
+        },
+        {
+          "fr": "Un ours agressif ou qui revient : appelez les urgences.",
+          "en": "An aggressive or returning bear: call emergency services."
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    "ours",
+    "animal",
+    "animaux",
+    "faune",
+    "poubelle",
+    "dechets",
+    "ordures",
+    "raton",
+    "bac",
+    "bear",
+    "wildlife",
+    "garbage",
+    "trash",
+    "bin",
+    "raccoon",
+    "deer"
+  ]
+}

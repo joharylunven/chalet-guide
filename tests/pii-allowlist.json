@@ -1,0 +1,4 @@
+{
+  "$comment": "Adresses professionnelles autorisées dans le build (ex. contact de la vitrine, défini dans src/config.ts). Jamais d'adresse personnelle ici.",
+  "emails": []
+}

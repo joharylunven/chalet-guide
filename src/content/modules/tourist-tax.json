@@ -1,0 +1,47 @@
+{
+  "id": "tourist-tax",
+  "countries": [
+    "fr"
+  ],
+  "icon": "receipt",
+  "title": {
+    "fr": "Taxe de séjour",
+    "en": "Tourist tax"
+  },
+  "intro": {
+    "fr": "La taxe de séjour est fixée par la commune ou l’intercommunalité, par personne et par nuit. Elle finance l’accueil touristique local.",
+    "en": "Tourist tax is set by the town or group of towns, per person per night. It funds local tourism services."
+  },
+  "blocks": [
+    {
+      "title": {
+        "fr": "Comment elle est payée",
+        "en": "How it is paid"
+      },
+      "tone": "info",
+      "items": [
+        {
+          "fr": "Réservation via une plateforme : la taxe est en général collectée par la plateforme au moment du paiement.",
+          "en": "Booked through a platform: the tax is usually collected by the platform at payment."
+        },
+        {
+          "fr": "Réservation directe : votre hôte vous l’indique séparément sur la facture.",
+          "en": "Direct booking: your host lists it separately on the invoice."
+        },
+        {
+          "fr": "Les mineurs en sont exonérés.",
+          "en": "Minors are exempt."
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    "taxe",
+    "sejour",
+    "impot",
+    "facture",
+    "tourist tax",
+    "tax",
+    "city tax"
+  ]
+}

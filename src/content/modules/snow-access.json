@@ -1,0 +1,98 @@
+{
+  "id": "snow-access",
+  "countries": [
+    "qc"
+  ],
+  "icon": "snowflake",
+  "title": {
+    "fr": "Déneigement et accès l’hiver",
+    "en": "Snow removal and winter access"
+  },
+  "intro": {
+    "fr": "En hiver, l’accès au chalet demande un peu de préparation. Le chemin est déneigé par un entrepreneur, mais pas toujours à l’heure de votre arrivée.",
+    "en": "In winter, getting to the cottage takes a little planning. The road is cleared by a contractor, but not always by the time you arrive."
+  },
+  "blocks": [
+    {
+      "title": {
+        "fr": "Avant de partir",
+        "en": "Before you leave"
+      },
+      "tone": "info",
+      "items": [
+        {
+          "fr": "Pneus d’hiver obligatoires au Québec du 1er décembre au 15 mars.",
+          "en": "Winter tires are mandatory in Québec from December 1 to March 15."
+        },
+        {
+          "fr": "Vérifiez l’état des routes sur Québec 511 avant de partir.",
+          "en": "Check road conditions on Québec 511 before leaving."
+        },
+        {
+          "fr": "Gardez dans l’auto : pelle, balai à neige, lave-glace hiver, couverture.",
+          "en": "Keep in the car: shovel, snow brush, winter washer fluid, blanket."
+        }
+      ]
+    },
+    {
+      "title": {
+        "fr": "Sur place",
+        "en": "On site"
+      },
+      "tone": "do",
+      "items": [
+        {
+          "fr": "Stationnez-vous le long de la clôture, nez vers la sortie, pour laisser passer la déneigeuse.",
+          "en": "Park along the fence, facing out, so the plough can get through."
+        },
+        {
+          "fr": "Pelle et sel de déglaçage sont sous la galerie.",
+          "en": "Shovel and de-icing salt are under the porch."
+        },
+        {
+          "fr": "Dégagez la sortie du chauffage (sur le mur côté lac) après une grosse tempête.",
+          "en": "Clear the heating vent (on the lake-side wall) after a big storm."
+        }
+      ]
+    },
+    {
+      "title": {
+        "fr": "Attention",
+        "en": "Caution"
+      },
+      "tone": "warning",
+      "items": [
+        {
+          "fr": "Ne bloquez jamais le chemin : il est partagé avec les voisins et les services d’urgence.",
+          "en": "Never block the road: it is shared with neighbours and emergency services."
+        },
+        {
+          "fr": "Glace sur les marches le matin : utilisez la rampe et le sel.",
+          "en": "Ice on the steps in the morning: use the handrail and salt."
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    "neige",
+    "deneigement",
+    "tempete",
+    "pneus",
+    "glace",
+    "chemin",
+    "acces",
+    "hiver",
+    "route",
+    "pelle",
+    "stationnement",
+    "snow",
+    "plough",
+    "plow",
+    "ice",
+    "winter",
+    "tires",
+    "road",
+    "shovel",
+    "parking"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "septic-well",
+  "countries": [
+    "qc",
+    "fr"
+  ],
+  "icon": "droplet",
+  "title": {
+    "fr": "Fosse septique et puits",
+    "en": "Septic tank and well"
+  },
+  "intro": {
+    "fr": "Le chalet n’est pas relié à l’égout ni à l’aqueduc : les eaux usées vont dans une fosse septique et l’eau vient d’un puits. Tout ce qui part dans les drains reste sur le terrain.",
+    "en": "The cottage isn’t connected to sewer or city water: waste water goes to a septic tank and water comes from a well. Everything that goes down the drains stays on the property."
+  },
+  "blocks": [
+    {
+      "title": {
+        "fr": "Rien dans la toilette sauf le papier",
+        "en": "Nothing in the toilet except paper"
+      },
+      "tone": "dont",
+      "items": [
+        {
+          "fr": "Pas de lingettes, même « jetables », ni de serviettes hygiéniques, de tampons ou de condoms.",
+          "en": "No wipes, even “flushable” ones, and no pads, tampons or condoms."
+        },
+        {
+          "fr": "Pas de graisse de cuisson dans l’évier : laissez-la figer, puis à la poubelle.",
+          "en": "No cooking grease in the sink: let it set, then into the trash."
+        },
+        {
+          "fr": "Pas de produits chimiques, de peinture ni de médicaments dans les drains.",
+          "en": "No chemicals, paint or medication down the drains."
+        }
+      ]
+    },
+    {
+      "title": {
+        "fr": "L’eau du puits",
+        "en": "Well water"
+      },
+      "tone": "info",
+      "items": [
+        {
+          "fr": "L’eau du robinet est analysée régulièrement par votre hôte. Les résultats récents sont indiqués ci-dessous.",
+          "en": "Tap water is tested regularly by your host. Recent results are shown below."
+        },
+        {
+          "fr": "Évitez les très longues douches à la suite : le puits a besoin de temps pour se remplir.",
+          "en": "Avoid long back-to-back showers: the well needs time to refill."
+        },
+        {
+          "fr": "Une eau de couleur inhabituelle ? Ne la buvez pas et prévenez votre hôte.",
+          "en": "Unusually coloured water? Don’t drink it and tell your host."
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    "toilette",
+    "toilettes",
+    "egout",
+    "fosse",
+    "septique",
+    "puits",
+    "eau potable",
+    "boire",
+    "lingette",
+    "drain",
+    "toilet",
+    "septic",
+    "well",
+    "drinking water",
+    "tap water",
+    "wipes"
+  ]
+}

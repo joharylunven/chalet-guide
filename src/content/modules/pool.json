@@ -1,0 +1,71 @@
+{
+  "id": "pool",
+  "countries": [
+    "fr"
+  ],
+  "icon": "waves",
+  "title": {
+    "fr": "Piscine",
+    "en": "Swimming pool"
+  },
+  "intro": {
+    "fr": "La piscine est ouverte de 9 h à 20 h. Elle est équipée d’un dispositif de sécurité qui doit rester en place en dehors de la baignade.",
+    "en": "The pool is open from 9 am to 8 pm. It has a safety device that must stay in place outside swimming times."
+  },
+  "blocks": [
+    {
+      "title": {
+        "fr": "Sécurité",
+        "en": "Safety"
+      },
+      "tone": "warning",
+      "items": [
+        {
+          "fr": "Les enfants sont toujours sous la surveillance active d’un adulte, même s’ils savent nager.",
+          "en": "Children must always be actively supervised by an adult, even if they can swim."
+        },
+        {
+          "fr": "Refermez le portillon (ou remettez la couverture) après chaque baignade.",
+          "en": "Close the gate (or put the cover back) after each swim."
+        },
+        {
+          "fr": "Pas de plongeon : la profondeur maximale est de 1,50 m.",
+          "en": "No diving: maximum depth is 1.5 m."
+        }
+      ]
+    },
+    {
+      "title": {
+        "fr": "Hygiène",
+        "en": "Hygiene"
+      },
+      "tone": "do",
+      "items": [
+        {
+          "fr": "Douche avant la baignade.",
+          "en": "Shower before swimming."
+        },
+        {
+          "fr": "Pas de verre ni de nourriture au bord du bassin.",
+          "en": "No glass or food by the pool."
+        },
+        {
+          "fr": "N’ajoutez aucun produit : l’entretien est assuré par votre hôte.",
+          "en": "Don’t add any product: your host handles maintenance."
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    "piscine",
+    "baignade",
+    "nager",
+    "bassin",
+    "portillon",
+    "enfants",
+    "pool",
+    "swim",
+    "swimming",
+    "gate"
+  ]
+}

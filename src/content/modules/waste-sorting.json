@@ -1,0 +1,71 @@
+{
+  "id": "waste-sorting",
+  "countries": [
+    "fr"
+  ],
+  "icon": "recycle",
+  "title": {
+    "fr": "Tri des déchets",
+    "en": "Waste sorting"
+  },
+  "intro": {
+    "fr": "La commune trie les déchets en trois flux. Les points de collecte sont indiqués sur la carte « Autour de nous ».",
+    "en": "The town sorts waste into three streams. Drop-off points are shown on the “Around us” map."
+  },
+  "blocks": [
+    {
+      "title": {
+        "fr": "Les bacs",
+        "en": "The bins"
+      },
+      "tone": "info",
+      "items": [
+        {
+          "fr": "Bac jaune : emballages, plastiques, cartons, métal.",
+          "en": "Yellow bin: packaging, plastics, cardboard, metal."
+        },
+        {
+          "fr": "Verre : au conteneur de la place du village (pas de collecte à domicile).",
+          "en": "Glass: at the container on the village square (no kerbside collection)."
+        },
+        {
+          "fr": "Bac gris : ordures ménagères, en sacs fermés.",
+          "en": "Grey bin: household waste, in closed bags."
+        }
+      ]
+    },
+    {
+      "title": {
+        "fr": "Avant de partir",
+        "en": "Before you leave"
+      },
+      "tone": "do",
+      "items": [
+        {
+          "fr": "Déposez vos sacs dans les bacs devant le portail.",
+          "en": "Put your bags in the bins by the gate."
+        },
+        {
+          "fr": "Videz le réfrigérateur : les restes ne restent pas au logement.",
+          "en": "Empty the fridge: leftovers don’t stay in the house."
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    "tri",
+    "poubelle",
+    "dechets",
+    "ordures",
+    "verre",
+    "recyclage",
+    "bac",
+    "jaune",
+    "waste",
+    "trash",
+    "recycling",
+    "glass",
+    "bin",
+    "sorting"
+  ]
+}

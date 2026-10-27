@@ -1,0 +1,550 @@
+{
+  "slug": "refuge-lac-brule",
+  "country": "qc",
+  "name": "Le Refuge du Lac-Brûlé",
+  "kind": {
+    "fr": "Chalet 4 saisons avec spa",
+    "en": "Four-season cottage with hot tub"
+  },
+  "tagline": {
+    "fr": "Bois rond, poêle à bois et spa face au lac gelé.",
+    "en": "Log walls, a wood stove and a hot tub facing the frozen lake."
+  },
+  "region": {
+    "fr": "Laurentides",
+    "en": "Laurentides"
+  },
+  "municipality": "Val-des-Lacs",
+  "location": {
+    "lat": 46.13,
+    "lon": -74.39
+  },
+  "illustration": "winter",
+  "legalId": "DÉMO-000101",
+  "hostLabel": {
+    "fr": "Chalets Boréal (exploitant fictif)",
+    "en": "Chalets Boréal (fictional host)"
+  },
+  "booking": "airbnb",
+  "capacity": 6,
+  "stay": {
+    "checkIn": "16:00",
+    "checkOut": "11:00"
+  },
+  "before": {
+    "directions": {
+      "fr": "Depuis Montréal, autoroute 15 Nord jusqu’à la sortie 86, puis route 117 Nord et chemin du Lac-Brûlé sur 4 km. Comptez environ 1 h 45 sans neige.",
+      "en": "From Montréal, take Highway 15 North to exit 86, then Route 117 North and Chemin du Lac-Brûlé for 4 km. About 1 h 45 without snow."
+    },
+    "winterAccess": {
+      "fr": "Les 800 derniers mètres sont un chemin privé en pente. Il est déneigé après chaque chute de plus de 5 cm, en général avant 10 h. Pneus d’hiver indispensables ; une traction intégrale est conseillée après une tempête.",
+      "en": "The last 800 metres are a sloped private road. It is ploughed after every snowfall over 5 cm, usually before 10 am. Winter tires are essential; all-wheel drive is recommended after a storm."
+    },
+    "bring": [
+      {
+        "fr": "Épicerie pour le premier soir : le dépanneur le plus proche ferme à 21 h.",
+        "en": "Groceries for the first night: the nearest convenience store closes at 9 pm."
+      },
+      {
+        "fr": "Maillots et sandales pour le spa.",
+        "en": "Swimsuits and sandals for the hot tub."
+      },
+      {
+        "fr": "Bottes et vêtements chauds : il fait souvent −20 °C la nuit en janvier.",
+        "en": "Boots and warm clothes: it is often −20 °C at night in January."
+      },
+      {
+        "fr": "Lampe frontale pour le chemin du quai.",
+        "en": "A headlamp for the path to the dock."
+      }
+    ]
+  },
+  "arrival": {
+    "doorCode": "4821",
+    "steps": [
+      {
+        "fr": "Stationnez-vous sur l’espace déneigé à gauche du garage.",
+        "en": "Park on the cleared space to the left of the garage."
+      },
+      {
+        "fr": "Le boîtier à code est à droite de la porte principale, sous l’auvent.",
+        "en": "The keypad is to the right of the front door, under the awning."
+      },
+      {
+        "fr": "Entrez le code puis appuyez sur le cadenas. La porte se verrouille seule en sortant.",
+        "en": "Enter the code, then press the lock button. The door locks itself when you leave."
+      },
+      {
+        "fr": "Le thermostat est réglé à 19 °C. Le poêle est prêt à allumer.",
+        "en": "The thermostat is set to 19 °C. The stove is ready to light."
+      }
+    ],
+    "parking": {
+      "fr": "Deux voitures maximum, nez vers la sortie pour la déneigeuse.",
+      "en": "Two cars maximum, facing out for the snow plough."
+    }
+  },
+  "wifi": {
+    "ssid": "Refuge-Invites",
+    "password": "Huard-Boreal-2026",
+    "note": {
+      "fr": "Internet par satellite : excellent pour la navigation, moins pour les jeux en ligne. Le cellulaire capte mal à l’intérieur.",
+      "en": "Satellite internet: great for browsing, less so for online gaming. Cell reception is weak indoors."
+    }
+  },
+  "house": {
+    "intro": {
+      "fr": "Chalet en bois rond de 1984, rénové en 2022. Trois chambres, une mezzanine, un grand salon vitré face au lac.",
+      "en": "Log cottage built in 1984, renovated in 2022. Three bedrooms, a loft, and a large glassed-in living room facing the lake."
+    },
+    "amenities": [
+      {
+        "icon": "bed",
+        "label": {
+          "fr": "3 chambres (2 queen, 2 simples) + mezzanine",
+          "en": "3 bedrooms (2 queen, 2 singles) + loft"
+        }
+      },
+      {
+        "icon": "bath",
+        "label": {
+          "fr": "1 salle de bain, douche à l’italienne",
+          "en": "1 bathroom, walk-in shower"
+        }
+      },
+      {
+        "icon": "chef-hat",
+        "label": {
+          "fr": "Cuisine équipée, cafetière à filtre et Moka",
+          "en": "Full kitchen, drip coffee maker and moka pot"
+        }
+      },
+      {
+        "icon": "flame",
+        "label": {
+          "fr": "Poêle à bois et bois sec fourni",
+          "en": "Wood stove, dry wood provided"
+        }
+      },
+      {
+        "icon": "waves",
+        "label": {
+          "fr": "Spa 6 places",
+          "en": "6-person hot tub"
+        }
+      },
+      {
+        "icon": "sailboat",
+        "label": {
+          "fr": "Quai, 2 kayaks, raquettes (6 paires)",
+          "en": "Dock, 2 kayaks, snowshoes (6 pairs)"
+        }
+      },
+      {
+        "icon": "tv",
+        "label": {
+          "fr": "Télévision avec services en ligne, pas de câble",
+          "en": "TV with streaming apps, no cable"
+        }
+      },
+      {
+        "icon": "washing-machine",
+        "label": {
+          "fr": "Laveuse et sécheuse",
+          "en": "Washer and dryer"
+        }
+      }
+    ],
+    "modules": [
+      {
+        "id": "wood-stove"
+      },
+      {
+        "id": "spa",
+        "note": {
+          "fr": "Le spa est maintenu à 38 °C. Le panneau de contrôle est sous le rabat, côté chalet.",
+          "en": "The tub is kept at 38 °C. The control panel is under the flap, on the cottage side."
+        }
+      },
+      {
+        "id": "septic-well",
+        "note": {
+          "fr": "Dernière analyse d’eau du puits : potable (exemple de démonstration).",
+          "en": "Latest well water test: safe to drink (demo example)."
+        }
+      },
+      {
+        "id": "snow-access"
+      },
+      {
+        "id": "wildlife",
+        "note": {
+          "fr": "Le bac à ordures verrouillé est au bout de l’entrée. Collecte le mardi matin.",
+          "en": "The locked garbage bin is at the end of the driveway. Pick-up on Tuesday mornings."
+        }
+      },
+      {
+        "id": "municipal-rules"
+      }
+    ]
+  },
+  "rules": [
+    {
+      "icon": "users",
+      "text": {
+        "fr": "6 personnes maximum, visiteurs compris.",
+        "en": "6 people maximum, including visitors."
+      }
+    },
+    {
+      "icon": "moon",
+      "text": {
+        "fr": "Silence de 22 h à 8 h, dehors comme sur le lac.",
+        "en": "Quiet hours from 10 pm to 8 am, outside and on the lake."
+      }
+    },
+    {
+      "icon": "cigarette-off",
+      "text": {
+        "fr": "Non-fumeur, à l’intérieur comme sur la galerie.",
+        "en": "No smoking, inside or on the porch."
+      }
+    },
+    {
+      "icon": "paw",
+      "text": {
+        "fr": "Animaux non admis.",
+        "en": "No pets."
+      }
+    },
+    {
+      "icon": "flame",
+      "text": {
+        "fr": "Feux extérieurs seulement dans le foyer près du lac.",
+        "en": "Outdoor fires only in the fire pit by the lake."
+      }
+    },
+    {
+      "icon": "party-popper",
+      "text": {
+        "fr": "Pas de fêtes ni d’événements.",
+        "en": "No parties or events."
+      }
+    }
+  ],
+  "departure": {
+    "checklist": [
+      {
+        "fr": "Lave-vaisselle lancé, vaisselle propre rangée.",
+        "en": "Dishwasher running, clean dishes put away."
+      },
+      {
+        "fr": "Poêle éteint, porte fermée, entrée d’air fermée.",
+        "en": "Stove out, door shut, air intake closed."
+      },
+      {
+        "fr": "Couvercle du spa remis et attaché.",
+        "en": "Hot tub cover on and clipped."
+      },
+      {
+        "fr": "Ordures et recyclage dans le bac verrouillé.",
+        "en": "Garbage and recycling in the locked bin."
+      },
+      {
+        "fr": "Thermostat remis à 16 °C.",
+        "en": "Thermostat back to 16 °C."
+      },
+      {
+        "fr": "Fenêtres fermées, lumières éteintes.",
+        "en": "Windows closed, lights off."
+      },
+      {
+        "fr": "Porte principale : elle se verrouille seule en sortant.",
+        "en": "Front door: it locks itself when you leave."
+      }
+    ],
+    "note": {
+      "fr": "Laissez les draps et serviettes utilisés dans la salle de bain. Pas besoin de laver.",
+      "en": "Leave used sheets and towels in the bathroom. No need to wash them."
+    }
+  },
+  "emergency": {
+    "hospital": {
+      "name": "Hôpital Laurentien",
+      "city": "Sainte-Agathe-des-Monts",
+      "location": {
+        "lat": 46.05,
+        "lon": -74.29
+      },
+      "distanceKm": 15
+    },
+    "notes": [
+      {
+        "fr": "Adresse à donner aux secours : celle de votre confirmation de réservation, puis « chemin privé du Lac-Brûlé, troisième chalet à gauche ».",
+        "en": "Address to give emergency services: the one in your booking confirmation, then “Lac-Brûlé private road, third cottage on the left”."
+      },
+      {
+        "fr": "Extincteur dans la cuisine, sous l’évier. Détecteurs de fumée et de monoxyde de carbone à chaque étage.",
+        "en": "Fire extinguisher in the kitchen, under the sink. Smoke and carbon monoxide detectors on every floor."
+      }
+    ]
+  },
+  "around": [
+    {
+      "id": "ptit-train",
+      "category": "outdoor",
+      "name": "Parc linéaire Le P’tit Train du Nord",
+      "text": {
+        "fr": "Ancienne voie ferrée : vélo l’été, ski de fond et marche l’hiver. Accès à Sainte-Agathe.",
+        "en": "Former railway line: cycling in summer, cross-country skiing and walking in winter. Access in Sainte-Agathe."
+      },
+      "location": {
+        "lat": 46.05,
+        "lon": -74.28
+      },
+      "seasons": [
+        "winter",
+        "spring",
+        "summer",
+        "autumn"
+      ]
+    },
+    {
+      "id": "lac-sables",
+      "category": "outdoor",
+      "name": "Lac des Sables",
+      "text": {
+        "fr": "Plage municipale et croisières l’été, patinoire sur le lac l’hiver.",
+        "en": "Public beach and boat cruises in summer, skating on the lake in winter."
+      },
+      "location": {
+        "lat": 46.04,
+        "lon": -74.29
+      },
+      "seasons": [
+        "winter",
+        "summer"
+      ]
+    },
+    {
+      "id": "tremblant",
+      "category": "outdoor",
+      "name": "Parc national du Mont-Tremblant",
+      "text": {
+        "fr": "Randonnée, canot, raquette. Comptez 45 minutes de route.",
+        "en": "Hiking, canoeing, snowshoeing. About 45 minutes by car."
+      },
+      "location": {
+        "lat": 46.21,
+        "lon": -74.56
+      },
+      "seasons": [
+        "winter",
+        "spring",
+        "summer",
+        "autumn"
+      ]
+    },
+    {
+      "id": "marche-lac",
+      "category": "grocery",
+      "name": "Marché du Lac",
+      "text": {
+        "fr": "Épicerie du village (lieu fictif) : produits locaux, bière de microbrasserie, bois d’allumage.",
+        "en": "Village grocery (fictional place): local products, craft beer, kindling."
+      },
+      "location": {
+        "lat": 46.14,
+        "lon": -74.4
+      },
+      "seasons": [
+        "winter",
+        "spring",
+        "summer",
+        "autumn"
+      ]
+    },
+    {
+      "id": "boulange",
+      "category": "food",
+      "name": "La Boulange des Pins",
+      "text": {
+        "fr": "Boulangerie fictive : croissants le matin, pizzas à emporter le vendredi.",
+        "en": "Fictional bakery: croissants in the morning, take-out pizza on Fridays."
+      },
+      "location": {
+        "lat": 46.12,
+        "lon": -74.37
+      },
+      "seasons": [
+        "winter",
+        "spring",
+        "summer",
+        "autumn"
+      ]
+    },
+    {
+      "id": "location-motoneige",
+      "category": "outdoor",
+      "name": "Sentiers Boréal Location",
+      "text": {
+        "fr": "Location de motoneiges et de quads (commerce fictif). Réservation la veille.",
+        "en": "Snowmobile and ATV rental (fictional business). Book the day before."
+      },
+      "location": {
+        "lat": 46.15,
+        "lon": -74.42
+      },
+      "seasons": [
+        "winter",
+        "autumn"
+      ]
+    }
+  ],
+  "options": [
+    {
+      "id": "firewood",
+      "icon": "axe",
+      "title": {
+        "fr": "Bois de chauffage supplémentaire",
+        "en": "Extra firewood"
+      },
+      "description": {
+        "fr": "Une corde d’appoint livrée sur la galerie : de quoi chauffer deux soirées.",
+        "en": "An extra face cord delivered to the porch: enough for two evenings."
+      },
+      "price": 35,
+      "unit": {
+        "fr": "livraison",
+        "en": "delivery"
+      },
+      "leadTime": {
+        "fr": "Commande avant 15 h, livré le jour même",
+        "en": "Order by 3 pm, delivered same day"
+      },
+      "highlight": "cold"
+    },
+    {
+      "id": "early-checkin",
+      "icon": "clock",
+      "title": {
+        "fr": "Arrivée anticipée (13 h)",
+        "en": "Early check-in (1 pm)"
+      },
+      "description": {
+        "fr": "Profitez du chalet trois heures plus tôt, selon les disponibilités.",
+        "en": "Enjoy the cottage three hours earlier, subject to availability."
+      },
+      "price": 40,
+      "unit": {
+        "fr": "séjour",
+        "en": "stay"
+      },
+      "leadTime": {
+        "fr": "48 h à l’avance",
+        "en": "48 h in advance"
+      },
+      "highlight": "before"
+    },
+    {
+      "id": "late-checkout",
+      "icon": "clock",
+      "title": {
+        "fr": "Départ tardif (14 h)",
+        "en": "Late check-out (2 pm)"
+      },
+      "description": {
+        "fr": "Prenez le temps d’un dernier spa avant de partir.",
+        "en": "Take time for one last soak before leaving."
+      },
+      "price": 40,
+      "unit": {
+        "fr": "séjour",
+        "en": "stay"
+      },
+      "leadTime": {
+        "fr": "La veille du départ",
+        "en": "The day before departure"
+      },
+      "highlight": "lastDay"
+    },
+    {
+      "id": "grocery",
+      "icon": "shopping-basket",
+      "title": {
+        "fr": "Panier du terroir à l’arrivée",
+        "en": "Local food basket on arrival"
+      },
+      "description": {
+        "fr": "Pain, fromages, charcuteries, sirop d’érable et café de la région, dans le frigo à votre arrivée.",
+        "en": "Bread, cheeses, cold cuts, maple syrup and local coffee, in the fridge when you arrive."
+      },
+      "price": 85,
+      "unit": {
+        "fr": "panier (2 pers.)",
+        "en": "basket (2 people)"
+      },
+      "leadTime": {
+        "fr": "72 h à l’avance",
+        "en": "72 h in advance"
+      },
+      "highlight": "before"
+    },
+    {
+      "id": "snowshoe-guide",
+      "icon": "map",
+      "title": {
+        "fr": "Sortie raquette guidée",
+        "en": "Guided snowshoe outing"
+      },
+      "description": {
+        "fr": "Deux heures en forêt avec un guide, chocolat chaud inclus.",
+        "en": "Two hours in the forest with a guide, hot chocolate included."
+      },
+      "price": 45,
+      "unit": {
+        "fr": "personne",
+        "en": "person"
+      },
+      "leadTime": {
+        "fr": "24 h à l’avance",
+        "en": "24 h in advance"
+      }
+    }
+  ],
+  "faq": [
+    {
+      "q": {
+        "fr": "Est-ce que l’eau du robinet est potable ?",
+        "en": "Is the tap water safe to drink?"
+      },
+      "a": {
+        "fr": "Oui. L’eau vient du puits et elle est analysée régulièrement. Voir la section Le chalet, module Fosse septique et puits.",
+        "en": "Yes. Water comes from the well and is tested regularly. See The cottage, Septic tank and well module."
+      },
+      "section": "house"
+    },
+    {
+      "q": {
+        "fr": "Où sont les raquettes ?",
+        "en": "Where are the snowshoes?"
+      },
+      "a": {
+        "fr": "Dans le cabanon à côté du quai, avec les bâtons. Le cadenas a le même code que la porte.",
+        "en": "In the shed next to the dock, with the poles. The padlock uses the same code as the door."
+      },
+      "section": "house"
+    },
+    {
+      "q": {
+        "fr": "Peut-on aller sur le lac gelé ?",
+        "en": "Can we go on the frozen lake?"
+      },
+      "a": {
+        "fr": "Seulement sur le sentier balisé par les voisins, et jamais avant que l’association du lac l’ait ouvert. En cas de doute, restez sur la rive.",
+        "en": "Only on the trail marked by the neighbours, and never before the lake association has opened it. If in doubt, stay on shore."
+      },
+      "section": "around"
+    }
+  ]
+}

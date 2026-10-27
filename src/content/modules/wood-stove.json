@@ -1,0 +1,125 @@
+{
+  "id": "wood-stove",
+  "countries": [
+    "qc",
+    "fr"
+  ],
+  "icon": "flame",
+  "title": {
+    "fr": "Poêle à bois",
+    "en": "Wood stove"
+  },
+  "intro": {
+    "fr": "Le poêle chauffe vite et fort. Quelques gestes simples pour en profiter en sécurité.",
+    "en": "The stove heats quickly and strongly. A few simple steps to enjoy it safely."
+  },
+  "blocks": [
+    {
+      "title": {
+        "fr": "Allumer",
+        "en": "Lighting it"
+      },
+      "tone": "info",
+      "items": [
+        {
+          "fr": "Ouvrez complètement la clé de tirage et l’entrée d’air.",
+          "en": "Fully open the damper and the air intake."
+        },
+        {
+          "fr": "Papier journal froissé, petit bois croisé par-dessus, puis deux bûches fines.",
+          "en": "Crumpled newspaper, kindling crossed on top, then two thin logs."
+        },
+        {
+          "fr": "Allumez, laissez la porte entrouverte deux ou trois minutes, puis fermez-la.",
+          "en": "Light it, leave the door ajar for two or three minutes, then close it."
+        },
+        {
+          "fr": "Quand les bûches sont bien prises, réduisez l’entrée d’air de moitié.",
+          "en": "Once the logs have caught, close the air intake halfway."
+        }
+      ]
+    },
+    {
+      "title": {
+        "fr": "À faire",
+        "en": "Do"
+      },
+      "tone": "do",
+      "items": [
+        {
+          "fr": "Utilisez uniquement le bois sec fourni (abri à côté de la porte).",
+          "en": "Only use the dry wood provided (shed next to the door)."
+        },
+        {
+          "fr": "Gardez la porte vitrée fermée quand vous quittez la pièce.",
+          "en": "Keep the glass door closed when you leave the room."
+        },
+        {
+          "fr": "Videz les cendres froides seulement, dans le seau métallique avec couvercle, dehors.",
+          "en": "Empty only cold ashes, into the metal bucket with a lid, outside."
+        }
+      ]
+    },
+    {
+      "title": {
+        "fr": "À ne jamais faire",
+        "en": "Never"
+      },
+      "tone": "dont",
+      "items": [
+        {
+          "fr": "Ne brûlez ni carton, ni déchets, ni bois traité ou peint.",
+          "en": "Never burn cardboard, trash, or treated or painted wood."
+        },
+        {
+          "fr": "N’utilisez jamais d’accélérant (essence, allume-feu liquide).",
+          "en": "Never use accelerants (gasoline, lighter fluid)."
+        },
+        {
+          "fr": "Ne posez rien sur le poêle ni à moins d’un mètre (vêtements, bottes, bois).",
+          "en": "Don’t put anything on the stove or within one metre of it (clothes, boots, wood)."
+        }
+      ]
+    },
+    {
+      "title": {
+        "fr": "En cas de problème",
+        "en": "If something goes wrong"
+      },
+      "tone": "warning",
+      "items": [
+        {
+          "fr": "Fumée dans la pièce : fermez l’entrée d’air, ouvrez une fenêtre, ne rajoutez pas de bois.",
+          "en": "Smoke in the room: close the air intake, open a window, don’t add wood."
+        },
+        {
+          "fr": "Feu de cheminée (grondement, flammes au sommet) : fermez l’entrée d’air, sortez et appelez les urgences.",
+          "en": "Chimney fire (roaring sound, flames at the top): close the air intake, get out and call emergency services."
+        },
+        {
+          "fr": "Le détecteur de monoxyde de carbone sonne : sortez tout le monde et appelez les urgences.",
+          "en": "Carbon monoxide alarm sounds: get everyone out and call emergency services."
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    "poele",
+    "feu",
+    "bois",
+    "foyer",
+    "chauffage",
+    "fumee",
+    "cendres",
+    "buche",
+    "chaleur",
+    "stove",
+    "fire",
+    "wood",
+    "heat",
+    "fireplace",
+    "ashes",
+    "smoke",
+    "log"
+  ]
+}

@@ -1,0 +1,499 @@
+{
+  "slug": "domaine-des-erables",
+  "country": "qc",
+  "name": "Le Domaine des Érables",
+  "kind": {
+    "fr": "Grande maison familiale",
+    "en": "Large family house"
+  },
+  "tagline": {
+    "fr": "Une érablière, un étang et de la place pour toute la famille.",
+    "en": "A maple grove, a pond and room for the whole family."
+  },
+  "region": {
+    "fr": "Cantons-de-l’Est",
+    "en": "Eastern Townships"
+  },
+  "municipality": "Sutton",
+  "location": {
+    "lat": 45.11,
+    "lon": -72.6
+  },
+  "illustration": "maple",
+  "legalId": "DÉMO-000103",
+  "hostLabel": {
+    "fr": "Domaines de l’Estrie (exploitant fictif)",
+    "en": "Domaines de l’Estrie (fictional host)"
+  },
+  "booking": "airbnb",
+  "capacity": 12,
+  "stay": {
+    "checkIn": "16:00",
+    "checkOut": "10:00"
+  },
+  "before": {
+    "directions": {
+      "fr": "Depuis Montréal, autoroute 10 Est sortie 68, puis route 139 Sud jusqu’à Sutton. Le chemin de gravier commence après le pont couvert. Environ 1 h 20.",
+      "en": "From Montréal, Highway 10 East to exit 68, then Route 139 South to Sutton. The gravel road starts after the covered bridge. About 1 h 20."
+    },
+    "winterAccess": {
+      "fr": "Le chemin de gravier peut être glacé au printemps (dégel). Roulez lentement dans les ornières.",
+      "en": "The gravel road can be icy in spring (thaw). Drive slowly through the ruts."
+    },
+    "bring": [
+      {
+        "fr": "Les jouets d’eau pour l’étang (pas de baignade sans adulte).",
+        "en": "Water toys for the pond (no swimming without an adult)."
+      },
+      {
+        "fr": "Guimauves pour le feu de camp.",
+        "en": "Marshmallows for the campfire."
+      },
+      {
+        "fr": "Chaussures de marche pour l’érablière.",
+        "en": "Walking shoes for the maple grove."
+      }
+    ]
+  },
+  "arrival": {
+    "doorCode": "3355",
+    "steps": [
+      {
+        "fr": "Stationnez-vous devant la grange.",
+        "en": "Park in front of the barn."
+      },
+      {
+        "fr": "Entrez par la porte de la cuisine, côté jardin.",
+        "en": "Use the kitchen door, on the garden side."
+      },
+      {
+        "fr": "Le code s’entre sur le pavé numérique, puis tournez la poignée.",
+        "en": "Enter the code on the keypad, then turn the handle."
+      }
+    ],
+    "parking": {
+      "fr": "Quatre voitures devant la grange.",
+      "en": "Four cars in front of the barn."
+    }
+  },
+  "wifi": {
+    "ssid": "Erables-Famille",
+    "password": "Sucrerie-Sutton-12"
+  },
+  "house": {
+    "intro": {
+      "fr": "Ancienne ferme laitière transformée en maison familiale : six chambres, salle de jeux dans la grange, terrain de 20 hectares.",
+      "en": "Former dairy farm turned into a family home: six bedrooms, a games room in the barn, 20 hectares of land."
+    },
+    "amenities": [
+      {
+        "icon": "bed",
+        "label": {
+          "fr": "6 chambres, 12 couchages",
+          "en": "6 bedrooms, sleeps 12"
+        }
+      },
+      {
+        "icon": "bath",
+        "label": {
+          "fr": "3 salles de bain",
+          "en": "3 bathrooms"
+        }
+      },
+      {
+        "icon": "chef-hat",
+        "label": {
+          "fr": "Grande cuisine, table de 14 places",
+          "en": "Large kitchen, table for 14"
+        }
+      },
+      {
+        "icon": "gamepad-2",
+        "label": {
+          "fr": "Salle de jeux : baby-foot, ping-pong, jeux de société",
+          "en": "Games room: foosball, ping-pong, board games"
+        }
+      },
+      {
+        "icon": "baby",
+        "label": {
+          "fr": "2 lits de bébé, barrières d’escalier",
+          "en": "2 cribs, stair gates"
+        }
+      },
+      {
+        "icon": "trees",
+        "label": {
+          "fr": "Sentiers dans l’érablière",
+          "en": "Trails in the maple grove"
+        }
+      },
+      {
+        "icon": "flame",
+        "label": {
+          "fr": "Foyer extérieur et bois fourni",
+          "en": "Outdoor fire pit, wood provided"
+        }
+      },
+      {
+        "icon": "washing-machine",
+        "label": {
+          "fr": "Laveuse et sécheuse",
+          "en": "Washer and dryer"
+        }
+      }
+    ],
+    "modules": [
+      {
+        "id": "septic-well",
+        "note": {
+          "fr": "Grande famille ? Étalez les lessives sur le séjour : la fosse septique vous dira merci.",
+          "en": "Big family? Spread laundry over your stay: the septic tank will thank you."
+        }
+      },
+      {
+        "id": "wildlife"
+      },
+      {
+        "id": "municipal-rules",
+        "note": {
+          "fr": "À Sutton, le foyer extérieur est permis sauf avis contraire de la municipalité ou de la SOPFEU.",
+          "en": "In Sutton, the outdoor fire pit is allowed unless the municipality or SOPFEU says otherwise."
+        }
+      }
+    ]
+  },
+  "rules": [
+    {
+      "icon": "users",
+      "text": {
+        "fr": "12 personnes maximum, enfants compris.",
+        "en": "12 people maximum, including children."
+      }
+    },
+    {
+      "icon": "moon",
+      "text": {
+        "fr": "Silence de 22 h à 8 h.",
+        "en": "Quiet hours from 10 pm to 8 am."
+      }
+    },
+    {
+      "icon": "cigarette-off",
+      "text": {
+        "fr": "Non-fumeur.",
+        "en": "No smoking."
+      }
+    },
+    {
+      "icon": "paw",
+      "text": {
+        "fr": "Animaux non admis (allergies d’autres voyageurs).",
+        "en": "No pets (other guests have allergies)."
+      }
+    },
+    {
+      "icon": "baby",
+      "text": {
+        "fr": "Étang : enfants toujours accompagnés d’un adulte.",
+        "en": "Pond: children always with an adult."
+      }
+    },
+    {
+      "icon": "party-popper",
+      "text": {
+        "fr": "Pas de fêtes ni de mariages.",
+        "en": "No parties or weddings."
+      }
+    }
+  ],
+  "departure": {
+    "checklist": [
+      {
+        "fr": "Vaisselle lavée, lave-vaisselle vidé.",
+        "en": "Dishes done, dishwasher emptied."
+      },
+      {
+        "fr": "Feu de camp complètement éteint (arrosé).",
+        "en": "Campfire fully out (doused)."
+      },
+      {
+        "fr": "Jouets rangés dans la salle de jeux.",
+        "en": "Toys put away in the games room."
+      },
+      {
+        "fr": "Ordures et recyclage au bout de l’allée.",
+        "en": "Garbage and recycling at the end of the driveway."
+      },
+      {
+        "fr": "Portes de la grange et de la maison fermées.",
+        "en": "Barn and house doors closed."
+      }
+    ],
+    "note": {
+      "fr": "Départ à 10 h : le ménage d’une maison de cette taille prend toute la journée.",
+      "en": "Check-out at 10 am: cleaning a house this size takes all day."
+    }
+  },
+  "emergency": {
+    "hospital": {
+      "name": "Hôpital Brome-Missisquoi-Perkins",
+      "city": "Cowansville",
+      "location": {
+        "lat": 45.2,
+        "lon": -72.75
+      },
+      "distanceKm": 17
+    },
+    "notes": [
+      {
+        "fr": "Trousse de premiers soins dans la salle de bain du rez-de-chaussée.",
+        "en": "First-aid kit in the ground-floor bathroom."
+      },
+      {
+        "fr": "Tiques : vérifiez la peau des enfants après les sentiers, surtout l’été.",
+        "en": "Ticks: check children’s skin after the trails, especially in summer."
+      }
+    ]
+  },
+  "around": [
+    {
+      "id": "mont-sutton",
+      "category": "outdoor",
+      "name": "Mont SUTTON",
+      "text": {
+        "fr": "Ski alpin en sous-bois l’hiver, randonnée l’été. À 10 minutes.",
+        "en": "Glade skiing in winter, hiking in summer. 10 minutes away."
+      },
+      "location": {
+        "lat": 45.1,
+        "lon": -72.56
+      },
+      "seasons": [
+        "winter",
+        "summer",
+        "autumn"
+      ]
+    },
+    {
+      "id": "parc-sutton",
+      "category": "outdoor",
+      "name": "Parc d’environnement naturel de Sutton",
+      "text": {
+        "fr": "Sentiers en montagne et refuges, idéal avec des enfants.",
+        "en": "Mountain trails and shelters, great with kids."
+      },
+      "location": {
+        "lat": 45.09,
+        "lon": -72.57
+      },
+      "seasons": [
+        "summer",
+        "autumn"
+      ]
+    },
+    {
+      "id": "vins",
+      "category": "culture",
+      "name": "Route des vins de Brome-Missisquoi",
+      "text": {
+        "fr": "Vignobles et cidreries autour de Dunham, à 20 minutes.",
+        "en": "Vineyards and cider houses around Dunham, 20 minutes away."
+      },
+      "location": {
+        "lat": 45.13,
+        "lon": -72.8
+      },
+      "seasons": [
+        "summer",
+        "autumn"
+      ]
+    },
+    {
+      "id": "verger",
+      "category": "family",
+      "name": "Verger de la Colline",
+      "text": {
+        "fr": "Autocueillette de pommes en septembre et octobre (lieu fictif).",
+        "en": "Pick-your-own apples in September and October (fictional place)."
+      },
+      "location": {
+        "lat": 45.13,
+        "lon": -72.63
+      },
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "epicerie",
+      "category": "grocery",
+      "name": "Épicerie Sutton Centre",
+      "text": {
+        "fr": "Épicerie fictive du village : pain, fromages, produits d’érable.",
+        "en": "Fictional village grocery: bread, cheese, maple products."
+      },
+      "location": {
+        "lat": 45.1,
+        "lon": -72.62
+      },
+      "seasons": [
+        "winter",
+        "spring",
+        "summer",
+        "autumn"
+      ]
+    },
+    {
+      "id": "cabane",
+      "category": "food",
+      "name": "Cabane à sucre du Ruisseau",
+      "text": {
+        "fr": "Repas traditionnel de cabane à sucre au printemps (lieu fictif).",
+        "en": "Traditional sugar shack meal in spring (fictional place)."
+      },
+      "location": {
+        "lat": 45.12,
+        "lon": -72.58
+      },
+      "seasons": [
+        "spring"
+      ]
+    }
+  ],
+  "options": [
+    {
+      "id": "early-checkin",
+      "icon": "clock",
+      "title": {
+        "fr": "Arrivée anticipée (13 h)",
+        "en": "Early check-in (1 pm)"
+      },
+      "description": {
+        "fr": "Arrivez plus tôt pour installer les enfants tranquillement.",
+        "en": "Arrive earlier to settle the kids in peacefully."
+      },
+      "price": 50,
+      "unit": {
+        "fr": "séjour",
+        "en": "stay"
+      },
+      "leadTime": {
+        "fr": "48 h à l’avance",
+        "en": "48 h in advance"
+      },
+      "highlight": "before"
+    },
+    {
+      "id": "grocery",
+      "icon": "shopping-basket",
+      "title": {
+        "fr": "Courses livrées avant l’arrivée",
+        "en": "Groceries delivered before arrival"
+      },
+      "description": {
+        "fr": "Envoyez votre liste : tout est rangé dans le frigo à votre arrivée (courses facturées en plus).",
+        "en": "Send your list: everything is in the fridge when you arrive (groceries billed separately)."
+      },
+      "price": 40,
+      "unit": {
+        "fr": "service",
+        "en": "service"
+      },
+      "leadTime": {
+        "fr": "72 h à l’avance",
+        "en": "72 h in advance"
+      },
+      "highlight": "before"
+    },
+    {
+      "id": "firewood",
+      "icon": "axe",
+      "title": {
+        "fr": "Bois pour feu de camp",
+        "en": "Campfire wood"
+      },
+      "description": {
+        "fr": "Un bac de bois sec et d’allume-feu près du foyer.",
+        "en": "A bin of dry wood and kindling by the fire pit."
+      },
+      "price": 25,
+      "unit": {
+        "fr": "bac",
+        "en": "bin"
+      },
+      "leadTime": {
+        "fr": "Le jour même",
+        "en": "Same day"
+      },
+      "highlight": "cold"
+    },
+    {
+      "id": "sugar-shack",
+      "icon": "utensils",
+      "title": {
+        "fr": "Repas de cabane à sucre",
+        "en": "Sugar shack meal"
+      },
+      "description": {
+        "fr": "Réservation pour votre groupe à la cabane voisine (printemps).",
+        "en": "Booking for your group at the nearby sugar shack (spring)."
+      },
+      "price": 38,
+      "unit": {
+        "fr": "adulte",
+        "en": "adult"
+      },
+      "leadTime": {
+        "fr": "1 semaine à l’avance",
+        "en": "1 week in advance"
+      }
+    },
+    {
+      "id": "late-checkout",
+      "icon": "clock",
+      "title": {
+        "fr": "Départ tardif (12 h)",
+        "en": "Late check-out (noon)"
+      },
+      "description": {
+        "fr": "Deux heures de plus, selon les disponibilités.",
+        "en": "Two extra hours, subject to availability."
+      },
+      "price": 60,
+      "unit": {
+        "fr": "séjour",
+        "en": "stay"
+      },
+      "leadTime": {
+        "fr": "La veille du départ",
+        "en": "The day before departure"
+      },
+      "highlight": "lastDay"
+    }
+  ],
+  "faq": [
+    {
+      "q": {
+        "fr": "Peut-on se baigner dans l’étang ?",
+        "en": "Can we swim in the pond?"
+      },
+      "a": {
+        "fr": "Oui, de juin à septembre, toujours avec un adulte. Il n’y a pas de surveillant.",
+        "en": "Yes, from June to September, always with an adult. There is no lifeguard."
+      },
+      "section": "rules"
+    },
+    {
+      "q": {
+        "fr": "Y a-t-il des jeux pour les enfants ?",
+        "en": "Are there games for kids?"
+      },
+      "a": {
+        "fr": "La salle de jeux est dans la grange : baby-foot, ping-pong et une armoire de jeux de société.",
+        "en": "The games room is in the barn: foosball, ping-pong and a cupboard of board games."
+      },
+      "section": "house"
+    }
+  ]
+}

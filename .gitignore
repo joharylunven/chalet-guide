@@ -1,0 +1,11 @@
+# Données brutes et privées : ne jamais versionner
+data/raw/
+data/private/
+docs/interne/
+
+# Build et dépendances
+node_modules/
+dist/
+
+# macOS
+.DS_Store

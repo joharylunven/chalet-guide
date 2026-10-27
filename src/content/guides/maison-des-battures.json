@@ -1,0 +1,512 @@
+{
+  "slug": "maison-des-battures",
+  "country": "qc",
+  "name": "La Maison des Battures",
+  "kind": {
+    "fr": "Maison au bord du fleuve",
+    "en": "Riverside house"
+  },
+  "tagline": {
+    "fr": "Les pieds dans les battures, le fleuve à perte de vue.",
+    "en": "Right on the tidal flats, with the St. Lawrence as far as the eye can see."
+  },
+  "region": {
+    "fr": "Charlevoix",
+    "en": "Charlevoix"
+  },
+  "municipality": "Les Éboulements",
+  "location": {
+    "lat": 47.46,
+    "lon": -70.36
+  },
+  "illustration": "river",
+  "legalId": "DÉMO-000102",
+  "hostLabel": {
+    "fr": "Hébergements du Cap (exploitant fictif)",
+    "en": "Hébergements du Cap (fictional host)"
+  },
+  "booking": "direct",
+  "capacity": 8,
+  "stay": {
+    "checkIn": "15:00",
+    "checkOut": "11:00"
+  },
+  "before": {
+    "directions": {
+      "fr": "Depuis Québec, route 138 Est jusqu’à Baie-Saint-Paul, puis route 362 vers Les Éboulements et descente vers Saint-Joseph-de-la-Rive. Environ 1 h 30.",
+      "en": "From Québec City, Route 138 East to Baie-Saint-Paul, then Route 362 to Les Éboulements and down to Saint-Joseph-de-la-Rive. About 1 h 30."
+    },
+    "winterAccess": {
+      "fr": "La descente vers le fleuve est raide (pente de 18 %). En hiver, roulez en première vitesse et évitez de freiner dans la courbe.",
+      "en": "The road down to the river is steep (18% grade). In winter, use low gear and avoid braking in the curve."
+    },
+    "bring": [
+      {
+        "fr": "Jumelles : on voit souvent des bélugas et des phoques.",
+        "en": "Binoculars: belugas and seals are often visible."
+      },
+      {
+        "fr": "Bottes de pluie pour marcher dans les battures à marée basse.",
+        "en": "Rubber boots to walk on the flats at low tide."
+      },
+      {
+        "fr": "Votre épicerie : le village a une boulangerie mais pas de supermarché.",
+        "en": "Your groceries: the village has a bakery but no supermarket."
+      }
+    ]
+  },
+  "arrival": {
+    "doorCode": "1608",
+    "steps": [
+      {
+        "fr": "Stationnez-vous dans l’allée de gravier, devant la remise rouge.",
+        "en": "Park in the gravel driveway, in front of the red shed."
+      },
+      {
+        "fr": "Entrez par la porte de côté (galerie couverte).",
+        "en": "Use the side door (covered porch)."
+      },
+      {
+        "fr": "Le code ouvre la serrure. Tournez la poignée vers le bas.",
+        "en": "The code opens the lock. Turn the handle down."
+      },
+      {
+        "fr": "Les horaires des marées sont affichés sur le frigo.",
+        "en": "Tide times are posted on the fridge."
+      }
+    ],
+    "parking": {
+      "fr": "Trois voitures dans l’allée. Ne stationnez pas sur la route du quai.",
+      "en": "Three cars in the driveway. Don’t park on the wharf road."
+    }
+  },
+  "wifi": {
+    "ssid": "Battures-Invites",
+    "password": "Beluga-Marée-77",
+    "note": {
+      "fr": "Fibre optique, très bon débit dans toute la maison.",
+      "en": "Fibre internet, strong speed throughout the house."
+    }
+  },
+  "house": {
+    "intro": {
+      "fr": "Maison ancestrale de 1890 en bardeaux de cèdre, entièrement rénovée. Grande galerie face au fleuve.",
+      "en": "1890 heritage house with cedar shingles, fully renovated. Large porch facing the river."
+    },
+    "amenities": [
+      {
+        "icon": "bed",
+        "label": {
+          "fr": "4 chambres (3 queen, 2 simples)",
+          "en": "4 bedrooms (3 queen, 2 singles)"
+        }
+      },
+      {
+        "icon": "bath",
+        "label": {
+          "fr": "2 salles de bain",
+          "en": "2 bathrooms"
+        }
+      },
+      {
+        "icon": "chef-hat",
+        "label": {
+          "fr": "Cuisine de chef, barbecue au propane",
+          "en": "Chef’s kitchen, propane barbecue"
+        }
+      },
+      {
+        "icon": "flame",
+        "label": {
+          "fr": "Poêle à bois en fonte",
+          "en": "Cast-iron wood stove"
+        }
+      },
+      {
+        "icon": "sailboat",
+        "label": {
+          "fr": "4 kayaks de mer, vestes de flottaison",
+          "en": "4 sea kayaks, life jackets"
+        }
+      },
+      {
+        "icon": "bike",
+        "label": {
+          "fr": "4 vélos",
+          "en": "4 bicycles"
+        }
+      },
+      {
+        "icon": "baby",
+        "label": {
+          "fr": "Lit de bébé et chaise haute",
+          "en": "Crib and high chair"
+        }
+      },
+      {
+        "icon": "washing-machine",
+        "label": {
+          "fr": "Laveuse et sécheuse",
+          "en": "Washer and dryer"
+        }
+      }
+    ],
+    "modules": [
+      {
+        "id": "wood-stove"
+      },
+      {
+        "id": "wildlife",
+        "note": {
+          "fr": "Ours noirs observés dans l’arrière-pays en été et à l’automne. Le bac à déchets est dans la remise rouge.",
+          "en": "Black bears are seen inland in summer and autumn. The garbage bin is in the red shed."
+        }
+      },
+      {
+        "id": "municipal-rules"
+      }
+    ]
+  },
+  "rules": [
+    {
+      "icon": "users",
+      "text": {
+        "fr": "8 personnes maximum.",
+        "en": "8 people maximum."
+      }
+    },
+    {
+      "icon": "moon",
+      "text": {
+        "fr": "Silence de 22 h à 7 h.",
+        "en": "Quiet hours from 10 pm to 7 am."
+      }
+    },
+    {
+      "icon": "cigarette-off",
+      "text": {
+        "fr": "Non-fumeur.",
+        "en": "No smoking."
+      }
+    },
+    {
+      "icon": "paw",
+      "text": {
+        "fr": "Un chien bienvenu (frais en option), jamais seul dans la maison.",
+        "en": "One dog welcome (fee applies), never left alone in the house."
+      }
+    },
+    {
+      "icon": "sailboat",
+      "text": {
+        "fr": "Kayak : seulement 2 h avant et après la marée haute, veste obligatoire.",
+        "en": "Kayaking: only within 2 hours of high tide, life jacket required."
+      }
+    },
+    {
+      "icon": "party-popper",
+      "text": {
+        "fr": "Pas de fêtes.",
+        "en": "No parties."
+      }
+    }
+  ],
+  "departure": {
+    "checklist": [
+      {
+        "fr": "Vaisselle lavée et rangée.",
+        "en": "Dishes washed and put away."
+      },
+      {
+        "fr": "Poêle éteint, entrée d’air fermée.",
+        "en": "Stove out, air intake closed."
+      },
+      {
+        "fr": "Kayaks rangés, vestes à sécher dans la remise.",
+        "en": "Kayaks stored, life jackets drying in the shed."
+      },
+      {
+        "fr": "Barbecue éteint, bonbonne fermée.",
+        "en": "Barbecue off, propane tank closed."
+      },
+      {
+        "fr": "Ordures dans la remise rouge.",
+        "en": "Garbage in the red shed."
+      },
+      {
+        "fr": "Clés des vélos sur le crochet de l’entrée.",
+        "en": "Bike lock keys on the hook by the door."
+      }
+    ],
+    "note": {
+      "fr": "La porte se verrouille avec le code : appuyez sur le cadenas en partant.",
+      "en": "The door locks with the keypad: press the lock button when you leave."
+    }
+  },
+  "emergency": {
+    "hospital": {
+      "name": "Hôpital de Baie-Saint-Paul",
+      "city": "Baie-Saint-Paul",
+      "location": {
+        "lat": 47.44,
+        "lon": -70.5
+      },
+      "distanceKm": 20
+    },
+    "notes": [
+      {
+        "fr": "Marée : le fleuve monte vite. Ne vous éloignez pas dans les battures quand la marée remonte.",
+        "en": "Tide: the water rises fast. Don’t wander far on the flats when the tide is coming in."
+      },
+      {
+        "fr": "Extincteur dans l’entrée et dans la cuisine.",
+        "en": "Fire extinguishers in the entrance and in the kitchen."
+      }
+    ]
+  },
+  "around": [
+    {
+      "id": "traversier",
+      "category": "outdoor",
+      "name": "Traversier vers L’Isle-aux-Coudres",
+      "text": {
+        "fr": "Départ du quai de Saint-Joseph-de-la-Rive, à 5 minutes à pied. Traversée gratuite d’environ 15 minutes.",
+        "en": "Leaves from the Saint-Joseph-de-la-Rive wharf, a 5-minute walk away. Free crossing of about 15 minutes."
+      },
+      "location": {
+        "lat": 47.45,
+        "lon": -70.36
+      },
+      "seasons": [
+        "winter",
+        "spring",
+        "summer",
+        "autumn"
+      ]
+    },
+    {
+      "id": "grands-jardins",
+      "category": "outdoor",
+      "name": "Parc national des Grands-Jardins",
+      "text": {
+        "fr": "Taïga et sommets : le sentier du mont du Lac-des-Cygnes est un incontournable.",
+        "en": "Taiga and summits: the Mont du Lac-des-Cygnes trail is a must."
+      },
+      "location": {
+        "lat": 47.68,
+        "lon": -70.84
+      },
+      "seasons": [
+        "summer",
+        "autumn",
+        "winter"
+      ]
+    },
+    {
+      "id": "massif",
+      "category": "outdoor",
+      "name": "Le Massif de Charlevoix",
+      "text": {
+        "fr": "Ski alpin avec vue sur le fleuve, à 35 minutes.",
+        "en": "Downhill skiing with a river view, 35 minutes away."
+      },
+      "location": {
+        "lat": 47.28,
+        "lon": -70.63
+      },
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "baie-st-paul",
+      "category": "culture",
+      "name": "Galeries de Baie-Saint-Paul",
+      "text": {
+        "fr": "Rue Saint-Jean-Baptiste : galeries d’art, cafés, boutiques.",
+        "en": "Rue Saint-Jean-Baptiste: art galleries, cafés, shops."
+      },
+      "location": {
+        "lat": 47.44,
+        "lon": -70.5
+      },
+      "seasons": [
+        "winter",
+        "spring",
+        "summer",
+        "autumn"
+      ]
+    },
+    {
+      "id": "fromagerie",
+      "category": "grocery",
+      "name": "Fromagerie des Battures",
+      "text": {
+        "fr": "Fromagerie fictive : pâtes fermes au lait cru et beurre salé.",
+        "en": "Fictional cheese dairy: raw-milk firm cheeses and salted butter."
+      },
+      "location": {
+        "lat": 47.48,
+        "lon": -70.33
+      },
+      "seasons": [
+        "winter",
+        "spring",
+        "summer",
+        "autumn"
+      ]
+    },
+    {
+      "id": "cafe-quai",
+      "category": "food",
+      "name": "Café du Quai",
+      "text": {
+        "fr": "Café fictif : chaudrée de fruits de mer et vue sur la traverse.",
+        "en": "Fictional café: seafood chowder and a view of the ferry."
+      },
+      "location": {
+        "lat": 47.45,
+        "lon": -70.37
+      },
+      "seasons": [
+        "spring",
+        "summer",
+        "autumn"
+      ]
+    }
+  ],
+  "options": [
+    {
+      "id": "kayak-tour",
+      "icon": "sailboat",
+      "title": {
+        "fr": "Sortie kayak guidée",
+        "en": "Guided kayak tour"
+      },
+      "description": {
+        "fr": "Trois heures sur le fleuve avec un guide certifié, selon la marée.",
+        "en": "Three hours on the river with a certified guide, depending on the tide."
+      },
+      "price": 75,
+      "unit": {
+        "fr": "personne",
+        "en": "person"
+      },
+      "leadTime": {
+        "fr": "48 h à l’avance",
+        "en": "48 h in advance"
+      }
+    },
+    {
+      "id": "firewood",
+      "icon": "axe",
+      "title": {
+        "fr": "Bois de chauffage supplémentaire",
+        "en": "Extra firewood"
+      },
+      "description": {
+        "fr": "Un chargement de bois sec livré sur la galerie.",
+        "en": "A load of dry wood delivered to the porch."
+      },
+      "price": 30,
+      "unit": {
+        "fr": "livraison",
+        "en": "delivery"
+      },
+      "leadTime": {
+        "fr": "Commande avant 15 h",
+        "en": "Order by 3 pm"
+      },
+      "highlight": "cold"
+    },
+    {
+      "id": "late-checkout",
+      "icon": "clock",
+      "title": {
+        "fr": "Départ tardif (14 h)",
+        "en": "Late check-out (2 pm)"
+      },
+      "description": {
+        "fr": "Un dernier déjeuner sur la galerie avant de partir.",
+        "en": "One last lunch on the porch before you go."
+      },
+      "price": 50,
+      "unit": {
+        "fr": "séjour",
+        "en": "stay"
+      },
+      "leadTime": {
+        "fr": "La veille du départ",
+        "en": "The day before departure"
+      },
+      "highlight": "lastDay"
+    },
+    {
+      "id": "dog",
+      "icon": "paw",
+      "title": {
+        "fr": "Séjour avec un chien",
+        "en": "Stay with a dog"
+      },
+      "description": {
+        "fr": "Gamelles, couverture et sacs fournis.",
+        "en": "Bowls, blanket and bags provided."
+      },
+      "price": 40,
+      "unit": {
+        "fr": "séjour",
+        "en": "stay"
+      },
+      "leadTime": {
+        "fr": "À la réservation",
+        "en": "When booking"
+      },
+      "highlight": "before"
+    },
+    {
+      "id": "breakfast",
+      "icon": "coffee",
+      "title": {
+        "fr": "Panier déjeuner",
+        "en": "Breakfast basket"
+      },
+      "description": {
+        "fr": "Pain de la boulangerie du village, confitures, fromages, œufs de la ferme.",
+        "en": "Village bakery bread, jams, cheeses, farm eggs."
+      },
+      "price": 45,
+      "unit": {
+        "fr": "panier (4 pers.)",
+        "en": "basket (4 people)"
+      },
+      "leadTime": {
+        "fr": "La veille avant 18 h",
+        "en": "The day before by 6 pm"
+      }
+    }
+  ],
+  "faq": [
+    {
+      "q": {
+        "fr": "Quand peut-on faire du kayak ?",
+        "en": "When can we go kayaking?"
+      },
+      "a": {
+        "fr": "Seulement dans les 2 heures avant et après la marée haute, avec une veste de flottaison. Les horaires sont affichés sur le frigo.",
+        "en": "Only within 2 hours of high tide, wearing a life jacket. Tide times are posted on the fridge."
+      },
+      "section": "rules"
+    },
+    {
+      "q": {
+        "fr": "Où voir des bélugas ?",
+        "en": "Where can we see belugas?"
+      },
+      "a": {
+        "fr": "Depuis la galerie, avec les jumelles, surtout à marée montante en été. Ne vous en approchez jamais en kayak.",
+        "en": "From the porch with binoculars, especially on a rising tide in summer. Never approach them by kayak."
+      },
+      "section": "around"
+    }
+  ]
+}
