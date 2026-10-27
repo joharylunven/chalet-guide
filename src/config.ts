@@ -4,7 +4,7 @@
 export const config = {
   productName: 'Chalet Guide',
   /** Courriel de contact affiché par la vitrine (lien mailto:). À déclarer aussi dans tests/pii-allowlist.json. */
-  contactEmail: '',
+  contactEmail: 'johary.lunven@gmail.com',
   /** Régions prioritaires pour la prospection (garder aligné avec scripts/prepare_data.py). */
   priorityRegions: ['Laurentides', 'Lanaudière', "Cantons-de-l'Est", 'Charlevoix'],
   dataset: {
